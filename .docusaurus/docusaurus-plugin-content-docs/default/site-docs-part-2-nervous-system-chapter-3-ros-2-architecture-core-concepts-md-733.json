@@ -1,0 +1,61 @@
+{
+  "id": "part-2-nervous-system/chapter-3-ros2-architecture-core-concepts",
+  "title": "Chapter 3 - ROS 2 Architecture & Core Concepts",
+  "description": "Introduction to ROS 2 architecture, nodes, topics, services, and core concepts",
+  "source": "@site/docs/part-2-nervous-system/chapter-3-ros2-architecture-core-concepts.md",
+  "sourceDirName": "part-2-nervous-system",
+  "slug": "/part-2-nervous-system/chapter-3-ros2-architecture-core-concepts",
+  "permalink": "/docs/part-2-nervous-system/chapter-3-ros2-architecture-core-concepts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-2-nervous-system/chapter-3-ros2-architecture-core-concepts.md",
+  "tags": [
+    {
+      "label": "ros2",
+      "permalink": "/docs/tags/ros-2"
+    },
+    {
+      "label": "architecture",
+      "permalink": "/docs/tags/architecture"
+    },
+    {
+      "label": "nodes",
+      "permalink": "/docs/tags/nodes"
+    },
+    {
+      "label": "topics",
+      "permalink": "/docs/tags/topics"
+    },
+    {
+      "label": "services",
+      "permalink": "/docs/tags/services"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "chapter-3-ros2-architecture-core-concepts",
+    "title": "Chapter 3 - ROS 2 Architecture & Core Concepts",
+    "description": "Introduction to ROS 2 architecture, nodes, topics, services, and core concepts",
+    "tags": [
+      "ros2",
+      "architecture",
+      "nodes",
+      "topics",
+      "services",
+      "robotics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2 - Sensors & Perception (LiDAR, Cameras, IMUs)",
+    "permalink": "/docs/part-1-foundations/chapter-2-sensors-perception"
+  },
+  "next": {
+    "title": "Chapter 4 - Vision-Language-Action Systems",
+    "permalink": "/docs/part-2-nervous-system/chapter-4-vision-language-action-systems"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion",
+  "title": "Chapter 11 - Humanoid Kinematics & Bipedal Locomotion",
+  "description": "Comprehensive guide to humanoid kinematics and bipedal locomotion for robotics",
+  "source": "@site/docs/part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion.md",
+  "sourceDirName": "part-5-advanced-humanoids",
+  "slug": "/part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion",
+  "permalink": "/docs/part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion.md",
+  "tags": [
+    {
+      "label": "humanoid",
+      "permalink": "/docs/tags/humanoid"
+    },
+    {
+      "label": "kinematics",
+      "permalink": "/docs/tags/kinematics"
+    },
+    {
+      "label": "locomotion",
+      "permalink": "/docs/tags/locomotion"
+    },
+    {
+      "label": "bipedal",
+      "permalink": "/docs/tags/bipedal"
+    },
+    {
+      "label": "walking",
+      "permalink": "/docs/tags/walking"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "chapter-11-humanoid-kinematics-locomotion",
+    "title": "Chapter 11 - Humanoid Kinematics & Bipedal Locomotion",
+    "description": "Comprehensive guide to humanoid kinematics and bipedal locomotion for robotics",
+    "tags": [
+      "humanoid",
+      "kinematics",
+      "locomotion",
+      "bipedal",
+      "walking",
+      "robotics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 10 - Reinforcement Learning for Control",
+    "permalink": "/docs/part-4-ai-brain/chapter-10-reinforcement-learning-control"
+  },
+  "next": {
+    "title": "Chapter 12 - VLA (Vision-Language-Action) & Conversational Robotics",
+    "permalink": "/docs/part-5-advanced-humanoids/chapter-12-vla-conversational-robotics"
+  }
+}

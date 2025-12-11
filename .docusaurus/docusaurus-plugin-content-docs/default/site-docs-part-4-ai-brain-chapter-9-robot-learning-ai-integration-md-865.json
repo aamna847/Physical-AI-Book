@@ -1,0 +1,61 @@
+{
+  "id": "part-4-ai-brain/chapter-9-robot-learning-ai-integration",
+  "title": "Chapter 9 - Visual SLAM & Navigation (Nav2)",
+  "description": "Comprehensive guide to Visual SLAM and navigation using Nav2 for robotics",
+  "source": "@site/docs/part-4-ai-brain/chapter-9-robot-learning-ai-integration.md",
+  "sourceDirName": "part-4-ai-brain",
+  "slug": "/part-4-ai-brain/chapter-9-visual-slam-navigation",
+  "permalink": "/docs/part-4-ai-brain/chapter-9-visual-slam-navigation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-4-ai-brain/chapter-9-robot-learning-ai-integration.md",
+  "tags": [
+    {
+      "label": "slam",
+      "permalink": "/docs/tags/slam"
+    },
+    {
+      "label": "visual-slam",
+      "permalink": "/docs/tags/visual-slam"
+    },
+    {
+      "label": "navigation",
+      "permalink": "/docs/tags/navigation"
+    },
+    {
+      "label": "nav2",
+      "permalink": "/docs/tags/nav-2"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "label": "ai",
+      "permalink": "/docs/tags/ai"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "chapter-9-visual-slam-navigation",
+    "title": "Chapter 9 - Visual SLAM & Navigation (Nav2)",
+    "description": "Comprehensive guide to Visual SLAM and navigation using Nav2 for robotics",
+    "tags": [
+      "slam",
+      "visual-slam",
+      "navigation",
+      "nav2",
+      "robotics",
+      "ai"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6 - NVIDIA Isaac Sim & SDK",
+    "permalink": "/docs/part-4-ai-brain/chapter-6-nvidia-isaac-sim-sdk"
+  },
+  "next": {
+    "title": "Chapter 10 - Reinforcement Learning for Control",
+    "permalink": "/docs/part-4-ai-brain/chapter-10-reinforcement-learning-control"
+  }
+}

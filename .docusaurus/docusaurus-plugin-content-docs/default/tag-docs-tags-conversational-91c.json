@@ -1,0 +1,15 @@
+{
+  "label": "conversational",
+  "permalink": "/docs/tags/conversational",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "part-5-advanced-humanoids/chapter-12-vla-conversational-robotics",
+      "title": "Chapter 12 - VLA (Vision-Language-Action) & Conversational Robotics",
+      "description": "Comprehensive guide to Vision-Language-Action systems and conversational robotics",
+      "permalink": "/docs/part-5-advanced-humanoids/chapter-12-vla-conversational-robotics"
+    }
+  ],
+  "unlisted": false
+}

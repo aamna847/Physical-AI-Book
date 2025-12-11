@@ -1,0 +1,15 @@
+{
+  "label": "bipedal",
+  "permalink": "/docs/tags/bipedal",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion",
+      "title": "Chapter 11 - Humanoid Kinematics & Bipedal Locomotion",
+      "description": "Comprehensive guide to humanoid kinematics and bipedal locomotion for robotics",
+      "permalink": "/docs/part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion"
+    }
+  ],
+  "unlisted": false
+}

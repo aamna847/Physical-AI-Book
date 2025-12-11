@@ -1,0 +1,52 @@
+{
+  "id": "part-2-nervous-system/chapter-4-simulation-gazebo-unity-integration",
+  "title": "Chapter 6 - Simulation Environments (Gazebo & Unity)",
+  "description": "Comprehensive guide to simulation environments for robotics using Gazebo and Unity",
+  "source": "@site/docs/part-2-nervous-system/chapter-4-simulation-gazebo-unity-integration.md",
+  "sourceDirName": "part-2-nervous-system",
+  "slug": "/part-2-nervous-system/chapter-6-simulation-gazebo-unity-integration",
+  "permalink": "/docs/part-2-nervous-system/chapter-6-simulation-gazebo-unity-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-2-nervous-system/chapter-4-simulation-gazebo-unity-integration.md",
+  "tags": [
+    {
+      "label": "simulation",
+      "permalink": "/docs/tags/simulation"
+    },
+    {
+      "label": "gazebo",
+      "permalink": "/docs/tags/gazebo"
+    },
+    {
+      "label": "unity",
+      "permalink": "/docs/tags/unity"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "label": "physics",
+      "permalink": "/docs/tags/physics"
+    },
+    {
+      "label": "3d",
+      "permalink": "/docs/tags/3-d"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "chapter-6-simulation-gazebo-unity-integration",
+    "title": "Chapter 6 - Simulation Environments (Gazebo & Unity)",
+    "description": "Comprehensive guide to simulation environments for robotics using Gazebo and Unity",
+    "tags": [
+      "simulation",
+      "gazebo",
+      "unity",
+      "robotics",
+      "physics",
+      "3d"
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "blogPosts": [
+    {
+      "id": "ros2-nervous-system",
+      "metadata": {
+        "permalink": "/blog/ros2-nervous-system",
+        "editUrl": "https://github.com/facebook/docusaurus/edit/main/packages/create-docusaurus/templates/shared/blog/2025-01-03-ros2-nervous-system.md",
+        "source": "@site/blog/2025-01-03-ros2-nervous-system.md",
+        "title": "ROS 2 as the Robotic Nervous System",
+        "description": "In the realm of robotics, communication and coordination are as vital as the nervous system is to biological organisms. ROS 2 (Robot Operating System 2) serves as the backbone of modern robotics applications, providing the infrastructure for different components to communicate, coordinate, and collaborate effectively.",
+        "date": "2025-01-03T00:00:00.000Z",
+        "formattedDate": "January 3, 2025",
+        "tags": [
+          {
+            "label": "ros2",
+            "permalink": "/blog/tags/ros-2"
+          },
+          {
+            "label": "robotics",
+            "permalink": "/blog/tags/robotics"
+          },
+          {
+            "label": "architecture",
+            "permalink": "/blog/tags/architecture"
+          },
+          {
+            "label": "communication",
+            "permalink": "/blog/tags/communication"
+          }
+        ],
+        "readingTime": 2.825,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "Physical AI Team",
+            "title": "Authors of the Physical AI & Humanoid Robotics Course",
+            "url": "https://github.com/physical-ai-team",
+            "image_url": "https://github.com/physical-ai-team.png",
+            "imageURL": "https://github.com/physical-ai-team.png"
+          }
+        ],
+        "frontMatter": {
+          "slug": "ros2-nervous-system",
+          "title": "ROS 2 as the Robotic Nervous System",
+          "authors": [
+            {
+              "name": "Physical AI Team",
+              "title": "Authors of the Physical AI & Humanoid Robotics Course",
+              "url": "https://github.com/physical-ai-team",
+              "image_url": "https://github.com/physical-ai-team.png",
+              "imageURL": "https://github.com/physical-ai-team.png"
+            }
+          ],
+          "tags": [
+            "ros2",
+            "robotics",
+            "architecture",
+            "communication"
+          ]
+        },
+        "unlisted": false,
+        "nextItem": {
+          "title": "Understanding Embodied Intelligence in Physical AI",
+          "permalink": "/blog/embodied-intelligence"
+        }
+      },
+      "content": "In the realm of robotics, communication and coordination are as vital as the nervous system is to biological organisms. ROS 2 (Robot Operating System 2) serves as the backbone of modern robotics applications, providing the infrastructure for different components to communicate, coordinate, and collaborate effectively.\n\n## The Nervous System Metaphor\n\nJust as the human nervous system senses the environment through receptors, processes information in the brain, and executes responses through muscles, a robotic system requires:\n\n1. **Sensors** to perceive the environment (vision, touch, sound, proprioception)\n2. **Processing Centers** to interpret information and plan actions\n3. **Actuators** to execute physical movements\n4. **Communication Pathways** to connect all these components\n\nROS 2 provides this communication infrastructure, enabling nodes representing different components to interact seamlessly.\n\n## Core Communication Patterns\n\n### Topics (Publish-Subscribe)\nSimilar to how the autonomic nervous system continuously sends signals about internal states, ROS 2 topics enable continuous data streaming between nodes:\n\n- Sensor nodes publish sensor readings\n- Visualization tools subscribe to multiple data streams\n- Control systems receive continuous feedback\n\n```python\n# Example of sensor data publishing\npublisher = node.create_publisher(LaserScan, '/scan', 10)\n```\n\n### Services (Request-Response)\nLike voluntary actions that require conscious decision-making, services provide synchronous communication for specific requests:\n\n- Navigation goal requests\n- Object recognition queries\n- Mapping services\n- Calibration requests\n\n```python\n# Example of service call\nfuture = client.call_async(request)\n```\n\n### Actions\nFor complex behaviors that take extended time and provide feedback, actions enable long-running operations:\n\n- Navigation to distant locations with periodic updates\n- Complex manipulation tasks with intermediate status\n- Learning processes that may take minutes or hours\n\n## Benefits of ROS 2 Architecture\n\n### Modularity\nDifferent teams can develop individual nodes independently, then integrate them into a cohesive system. This allows specialists to focus on their area of expertise while contributing to the broader system.\n\n### Flexibility\nComponents can be replaced, upgraded, or switched without affecting other parts of the system. This enables experimentation with different algorithms or approaches.\n\n### Tooling\nThe ROS 2 ecosystem provides powerful tools for visualization (RViz2), debugging (rqt), profiling (rosbags), and monitoring (ros2 topic/tools).\n\n## Integration in Physical AI\n\nIn the context of Physical AI and embodied intelligence, ROS 2 enables:\n\n- **Real-time Perception-Action Loops**: Continuous sensor processing leading to physical actions\n- **Multi-Modal Integration**: Combining data from diverse sensors (vision, LiDAR, tactile, auditory)\n- **Hierarchical Control**: High-level planning nodes coordinating with low-level control nodes\n- **Sim-to-Real Transfer**: Testing components in simulation before deployment on real hardware\n\n## Challenges and Considerations\n\n### Performance\nReal-time robotics applications have strict timing requirements that must be met consistently. Careful design and optimization are required to ensure that communication overhead doesn't impact performance.\n\n### Safety\nSince ROS 2 nodes can command physical actions, safety mechanisms must be robust and reliable. This includes emergency stop capabilities and redundant safety systems.\n\n### Distributed Systems\nWhen robots have components distributed across multiple computers, network reliability and latency become critical factors in system design.\n\n## Looking Forward\n\nIn our Physical AI curriculum, we'll explore hands-on examples of ROS 2 implementations, including how to design nodes that embody the principles of embodied intelligence while leveraging the communication and coordination capabilities of ROS 2. We'll see how this \"nervous system\" approach enables robots to develop intelligence through interaction with the physical world.\n\nUnderstanding these communication patterns is fundamental to building effective Physical AI systems that can operate successfully in the real world."
+    },
+    {
+      "id": "embodied-intelligence",
+      "metadata": {
+        "permalink": "/blog/embodied-intelligence",
+        "editUrl": "https://github.com/facebook/docusaurus/edit/main/packages/create-docusaurus/templates/shared/blog/2025-01-02-embodied-intelligence.md",
+        "source": "@site/blog/2025-01-02-embodied-intelligence.md",
+        "title": "Understanding Embodied Intelligence in Physical AI",
+        "description": "One of the core concepts underlying Physical AI is embodied intelligence - the idea that true intelligence emerges from the interaction between an agent and its environment. This concept fundamentally changes how we think about artificial intelligence.",
+        "date": "2025-01-02T00:00:00.000Z",
+        "formattedDate": "January 2, 2025",
+        "tags": [
+          {
+            "label": "embodied-intelligence",
+            "permalink": "/blog/tags/embodied-intelligence"
+          },
+          {
+            "label": "robotics",
+            "permalink": "/blog/tags/robotics"
+          },
+          {
+            "label": "ai",
+            "permalink": "/blog/tags/ai"
+          },
+          {
+            "label": "concepts",
+            "permalink": "/blog/tags/concepts"
+          }
+        ],
+        "readingTime": 1.94,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "Physical AI Team",
+            "title": "Authors of the Physical AI & Humanoid Robotics Course",
+            "url": "https://github.com/physical-ai-team",
+            "image_url": "https://github.com/physical-ai-team.png",
+            "imageURL": "https://github.com/physical-ai-team.png"
+          }
+        ],
+        "frontMatter": {
+          "slug": "embodied-intelligence",
+          "title": "Understanding Embodied Intelligence in Physical AI",
+          "authors": [
+            {
+              "name": "Physical AI Team",
+              "title": "Authors of the Physical AI & Humanoid Robotics Course",
+              "url": "https://github.com/physical-ai-team",
+              "image_url": "https://github.com/physical-ai-team.png",
+              "imageURL": "https://github.com/physical-ai-team.png"
+            }
+          ],
+          "tags": [
+            "embodied-intelligence",
+            "robotics",
+            "ai",
+            "concepts"
+          ]
+        },
+        "unlisted": false,
+        "prevItem": {
+          "title": "ROS 2 as the Robotic Nervous System",
+          "permalink": "/blog/ros2-nervous-system"
+        },
+        "nextItem": {
+          "title": "Welcome to Physical AI & Humanoid Robotics Blog",
+          "permalink": "/blog/welcome"
+        }
+      },
+      "content": "One of the core concepts underlying Physical AI is *embodied intelligence* - the idea that true intelligence emerges from the interaction between an agent and its environment. This concept fundamentally changes how we think about artificial intelligence.\n\n## What is Embodied Intelligence?\n\nTraditional AI approaches often treat intelligence as a computational process divorced from physical reality. Algorithms process inputs and generate outputs without necessarily considering the physical consequences of those outputs in the real world.\n\nEmbodied intelligence, however, recognizes that intelligence is deeply connected to physical embodiment and environmental interaction. Just as human intelligence evolved in response to the need to navigate and manipulate the physical world, embodied AI systems gain intelligence through their interaction with their environment.\n\n## Key Principles of Embodied Intelligence\n\n### Physical Grounding\nThe system's understanding is grounded in physical experiences rather than abstract symbols. For example, a robot's concept of \"heavy object\" comes from actually lifting objects of different weights, not from symbolic representations.\n\n### Sensorimotor Contingencies\nIntelligent behavior emerges from the interplay between sensory inputs and motor outputs. The robot learns about the world by actively manipulating it and observing the results.\n\n### Environmental Affordances\nThe environment itself becomes part of the cognitive system. Rather than storing all information internally, the robot uses environmental cues and properties to guide its behavior.\n\n## Applications in Physical AI\n\nIn our robotics curriculum, students learn to design systems that embody these principles:\n\n- **Perception Systems**: Understanding what is sensed in the context of how the robot moves through the world\n- **Action Systems**: Planning actions that take sensorimotor contingencies into account\n- **Learning Systems**: Acquiring intelligence through physical interaction and exploration\n- **Adaptive Systems**: Continuously adjusting behavior based on environmental feedback\n\n## Practical Implementation\n\nIn practical terms, embodied intelligence means designing robots that:\n\n1. Learn from physical interaction with their environment\n2. Use environmental feedback to refine their understanding\n3. Adapt their behavior based on real-world consequences\n4. Develop skills through experience rather than explicit programming\n\nThis approach leads to more robust and adaptable robotic systems that can function effectively in the complex, dynamic environments of the real world.\n\n## Looking Ahead\n\nFuture blog posts will explore specific implementations of embodied intelligence in humanoid robotics, including how we teach these concepts in our 13-week curriculum and showcase student projects that exemplify these principles in action."
+    },
+    {
+      "id": "welcome",
+      "metadata": {
+        "permalink": "/blog/welcome",
+        "editUrl": "https://github.com/facebook/docusaurus/edit/main/packages/create-docusaurus/templates/shared/blog/2025-01-01-welcome.md",
+        "source": "@site/blog/2025-01-01-welcome.md",
+        "title": "Welcome to Physical AI & Humanoid Robotics Blog",
+        "description": "Welcome to our blog dedicated to exploring the fascinating intersection of artificial intelligence and physical robotics. Here, we'll dive deep into the concepts of embodied intelligence and discuss how AI systems can operate effectively in the physical world.",
+        "date": "2025-01-01T00:00:00.000Z",
+        "formattedDate": "January 1, 2025",
+        "tags": [
+          {
+            "label": "welcome",
+            "permalink": "/blog/tags/welcome"
+          },
+          {
+            "label": "robotics",
+            "permalink": "/blog/tags/robotics"
+          },
+          {
+            "label": "ai",
+            "permalink": "/blog/tags/ai"
+          },
+          {
+            "label": "physical-ai",
+            "permalink": "/blog/tags/physical-ai"
+          }
+        ],
+        "readingTime": 1.23,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "Physical AI Team",
+            "title": "Authors of the Physical AI & Humanoid Robotics Course",
+            "url": "https://github.com/physical-ai-team",
+            "image_url": "https://github.com/physical-ai-team.png",
+            "imageURL": "https://github.com/physical-ai-team.png"
+          }
+        ],
+        "frontMatter": {
+          "slug": "welcome",
+          "title": "Welcome to Physical AI & Humanoid Robotics Blog",
+          "authors": [
+            {
+              "name": "Physical AI Team",
+              "title": "Authors of the Physical AI & Humanoid Robotics Course",
+              "url": "https://github.com/physical-ai-team",
+              "image_url": "https://github.com/physical-ai-team.png",
+              "imageURL": "https://github.com/physical-ai-team.png"
+            }
+          ],
+          "tags": [
+            "welcome",
+            "robotics",
+            "ai",
+            "physical-ai"
+          ]
+        },
+        "unlisted": false,
+        "prevItem": {
+          "title": "Understanding Embodied Intelligence in Physical AI",
+          "permalink": "/blog/embodied-intelligence"
+        }
+      },
+      "content": "Welcome to our blog dedicated to exploring the fascinating intersection of artificial intelligence and physical robotics. Here, we'll dive deep into the concepts of embodied intelligence and discuss how AI systems can operate effectively in the physical world.\n\n## What is Physical AI?\n\nPhysical AI represents a paradigm shift from traditional digital AI toward embodied intelligence. Rather than treating AI as purely software-based systems, Physical AI emphasizes the importance of physical interaction with the environment as a fundamental aspect of intelligence.\n\nIn this blog series, we'll explore:\n\n- How robots can learn through physical interaction\n- The challenges of bridging digital AI with real-world robotics\n- Practical implementations of AI in robotic systems\n- Case studies of successful Physical AI implementations\n- The latest research and developments in humanoid robotics\n\n## Our Journey Through Physical AI\n\nThis blog accompanies our comprehensive curriculum on \"Physical AI & Humanoid Robotics,\" where we'll cover:\n\n- **ROS 2 Fundamentals** - Building the nervous system of robotics applications\n- **Simulation Environments** - Using Gazebo and Unity for safe testing and development\n- **NVIDIA Isaac Platform** - Leveraging advanced tools for perception and navigation\n- **Vision-Language-Action Systems** - Enabling robots to understand natural commands\n- **Humanoid Control** - Techniques for locomotion, manipulation, and balance\n\nThrough these articles, we hope to share insights, discoveries, and practical tips for researchers, developers, and enthusiasts working in this exciting field.\n\nStay tuned for our upcoming posts where we'll dive into specific technical implementations and case studies!"
+    }
+  ]
+}

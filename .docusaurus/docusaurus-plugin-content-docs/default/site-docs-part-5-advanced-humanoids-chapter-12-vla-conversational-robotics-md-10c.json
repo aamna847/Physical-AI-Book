@@ -1,0 +1,61 @@
+{
+  "id": "part-5-advanced-humanoids/chapter-12-vla-conversational-robotics",
+  "title": "Chapter 12 - VLA (Vision-Language-Action) & Conversational Robotics",
+  "description": "Comprehensive guide to Vision-Language-Action systems and conversational robotics",
+  "source": "@site/docs/part-5-advanced-humanoids/chapter-12-vla-conversational-robotics.md",
+  "sourceDirName": "part-5-advanced-humanoids",
+  "slug": "/part-5-advanced-humanoids/chapter-12-vla-conversational-robotics",
+  "permalink": "/docs/part-5-advanced-humanoids/chapter-12-vla-conversational-robotics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-5-advanced-humanoids/chapter-12-vla-conversational-robotics.md",
+  "tags": [
+    {
+      "label": "vla",
+      "permalink": "/docs/tags/vla"
+    },
+    {
+      "label": "vision-language-action",
+      "permalink": "/docs/tags/vision-language-action"
+    },
+    {
+      "label": "conversational",
+      "permalink": "/docs/tags/conversational"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "label": "ai",
+      "permalink": "/docs/tags/ai"
+    },
+    {
+      "label": "nlp",
+      "permalink": "/docs/tags/nlp"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "chapter-12-vla-conversational-robotics",
+    "title": "Chapter 12 - VLA (Vision-Language-Action) & Conversational Robotics",
+    "description": "Comprehensive guide to Vision-Language-Action systems and conversational robotics",
+    "tags": [
+      "vla",
+      "vision-language-action",
+      "conversational",
+      "robotics",
+      "ai",
+      "nlp"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 11 - Humanoid Kinematics & Bipedal Locomotion",
+    "permalink": "/docs/part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion"
+  },
+  "next": {
+    "title": "Chapter 13 - Hardware Requirements & Robot Platforms",
+    "permalink": "/docs/part-5-advanced-humanoids/hardware-requirements-robot-platforms"
+  }
+}

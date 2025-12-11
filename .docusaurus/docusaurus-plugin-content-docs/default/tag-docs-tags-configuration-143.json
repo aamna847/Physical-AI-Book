@@ -1,0 +1,15 @@
+{
+  "label": "configuration",
+  "permalink": "/docs/tags/configuration",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "part-2-nervous-system/chapter-5-launch-systems-parameter-management",
+      "title": "Chapter 5 - Launch Systems & Parameter Management",
+      "description": "Managing complex ROS 2 deployments using launch files and parameter management",
+      "permalink": "/docs/part-2-nervous-system/chapter-5-launch-systems-parameter-management"
+    }
+  ],
+  "unlisted": false
+}

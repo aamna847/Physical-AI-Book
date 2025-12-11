@@ -1,0 +1,20 @@
+{
+  "id": "introduction",
+  "title": "🤖 🤖 Curriculum Module: Physical AI & Humanoid Robotics 🧠 🤖",
+  "description": "Welcome to the comprehensive guide on Physical AI & Humanoid Robotics. This book covers everything from the fundamentals of embodied intelligence to advanced humanoid control systems, following the principles of applying AI knowledge to control Humanoid Robots in simulated and real-world environments.",
+  "source": "@site/docs/introduction.md",
+  "sourceDirName": ".",
+  "slug": "/introduction",
+  "permalink": "/docs/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Chapter 1 - Introduction to Physical AI & Embodied Intelligence",
+    "permalink": "/docs/part-1-foundations/chapter-1-introduction-to-physical-ai"
+  }
+}

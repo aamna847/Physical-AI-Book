@@ -1,0 +1,110 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "introduction",
+          "docs": [
+            {
+              "id": "introduction",
+              "path": "/docs/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-1-foundations/chapter-1-introduction-to-physical-ai",
+              "path": "/docs/part-1-foundations/chapter-1-introduction-to-physical-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-1-foundations/chapter-2-sensors-perception",
+              "path": "/docs/part-1-foundations/chapter-2-sensors-perception",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-2-nervous-system/chapter-3-ros2-architecture-core-concepts",
+              "path": "/docs/part-2-nervous-system/chapter-3-ros2-architecture-core-concepts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-2-nervous-system/chapter-4-building-ros2-nodes-python",
+              "path": "/docs/part-2-nervous-system/chapter-4-vision-language-action-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-2-nervous-system/chapter-4-isaac-sim-sdks",
+              "path": "/docs/part-2-nervous-system/chapter-7-nvidia-isaac-sim-sdk"
+            },
+            {
+              "id": "part-2-nervous-system/chapter-4-simulation-gazebo-unity-integration",
+              "path": "/docs/part-2-nervous-system/chapter-6-simulation-gazebo-unity-integration"
+            },
+            {
+              "id": "part-2-nervous-system/chapter-5-launch-systems-parameter-management",
+              "path": "/docs/part-2-nervous-system/chapter-5-launch-systems-parameter-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf",
+              "path": "/docs/part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-3-digital-twin/chapter-7-physics-simulation-unity-integration",
+              "path": "/docs/part-3-digital-twin/chapter-7-physics-simulation-unity-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-4-ai-brain/chapter-10-vision-language-action",
+              "path": "/docs/part-4-ai-brain/chapter-10-reinforcement-learning-control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-4-ai-brain/chapter-8-nvidia-isaac-sim-sdk",
+              "path": "/docs/part-4-ai-brain/chapter-6-nvidia-isaac-sim-sdk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-4-ai-brain/chapter-9-robot-learning-ai-integration",
+              "path": "/docs/part-4-ai-brain/chapter-9-visual-slam-navigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion",
+              "path": "/docs/part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-5-advanced-humanoids/chapter-12-vla-conversational-robotics",
+              "path": "/docs/part-5-advanced-humanoids/chapter-12-vla-conversational-robotics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part-5-advanced-humanoids/chapter-13-hardware-requirements-robot-platforms",
+              "path": "/docs/part-5-advanced-humanoids/hardware-requirements-robot-platforms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "search-functionality",
+              "path": "/docs/search-functionality"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/introduction",
+                "label": "introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

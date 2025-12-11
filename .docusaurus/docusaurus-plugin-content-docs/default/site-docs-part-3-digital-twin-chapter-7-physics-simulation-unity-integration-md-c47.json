@@ -1,0 +1,61 @@
+{
+  "id": "part-3-digital-twin/chapter-7-physics-simulation-unity-integration",
+  "title": "Chapter 7 - Physics Simulation & Unity Integration",
+  "description": "Comprehensive guide to physics simulation and Unity integration for robotics",
+  "source": "@site/docs/part-3-digital-twin/chapter-7-physics-simulation-unity-integration.md",
+  "sourceDirName": "part-3-digital-twin",
+  "slug": "/part-3-digital-twin/chapter-7-physics-simulation-unity-integration",
+  "permalink": "/docs/part-3-digital-twin/chapter-7-physics-simulation-unity-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-3-digital-twin/chapter-7-physics-simulation-unity-integration.md",
+  "tags": [
+    {
+      "label": "physics",
+      "permalink": "/docs/tags/physics"
+    },
+    {
+      "label": "simulation",
+      "permalink": "/docs/tags/simulation"
+    },
+    {
+      "label": "unity",
+      "permalink": "/docs/tags/unity"
+    },
+    {
+      "label": "integration",
+      "permalink": "/docs/tags/integration"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "label": "3d",
+      "permalink": "/docs/tags/3-d"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "chapter-7-physics-simulation-unity-integration",
+    "title": "Chapter 7 - Physics Simulation & Unity Integration",
+    "description": "Comprehensive guide to physics simulation and Unity integration for robotics",
+    "tags": [
+      "physics",
+      "simulation",
+      "unity",
+      "integration",
+      "robotics",
+      "3d"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6 - Simulation with Gazebo (URDF/SDF)",
+    "permalink": "/docs/part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf"
+  },
+  "next": {
+    "title": "Chapter 6 - NVIDIA Isaac Sim & SDK",
+    "permalink": "/docs/part-4-ai-brain/chapter-6-nvidia-isaac-sim-sdk"
+  }
+}

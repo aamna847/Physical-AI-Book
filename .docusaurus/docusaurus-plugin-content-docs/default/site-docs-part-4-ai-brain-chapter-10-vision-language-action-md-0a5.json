@@ -1,0 +1,61 @@
+{
+  "id": "part-4-ai-brain/chapter-10-vision-language-action",
+  "title": "Chapter 10 - Reinforcement Learning for Control",
+  "description": "Comprehensive guide to reinforcement learning techniques for robotic control",
+  "source": "@site/docs/part-4-ai-brain/chapter-10-vision-language-action.md",
+  "sourceDirName": "part-4-ai-brain",
+  "slug": "/part-4-ai-brain/chapter-10-reinforcement-learning-control",
+  "permalink": "/docs/part-4-ai-brain/chapter-10-reinforcement-learning-control",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-4-ai-brain/chapter-10-vision-language-action.md",
+  "tags": [
+    {
+      "label": "reinforcement-learning",
+      "permalink": "/docs/tags/reinforcement-learning"
+    },
+    {
+      "label": "rl",
+      "permalink": "/docs/tags/rl"
+    },
+    {
+      "label": "control",
+      "permalink": "/docs/tags/control"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "label": "ai",
+      "permalink": "/docs/tags/ai"
+    },
+    {
+      "label": "machine-learning",
+      "permalink": "/docs/tags/machine-learning"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "chapter-10-reinforcement-learning-control",
+    "title": "Chapter 10 - Reinforcement Learning for Control",
+    "description": "Comprehensive guide to reinforcement learning techniques for robotic control",
+    "tags": [
+      "reinforcement-learning",
+      "rl",
+      "control",
+      "robotics",
+      "ai",
+      "machine-learning"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 9 - Visual SLAM & Navigation (Nav2)",
+    "permalink": "/docs/part-4-ai-brain/chapter-9-visual-slam-navigation"
+  },
+  "next": {
+    "title": "Chapter 11 - Humanoid Kinematics & Bipedal Locomotion",
+    "permalink": "/docs/part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion"
+  }
+}

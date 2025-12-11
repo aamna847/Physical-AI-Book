@@ -1,0 +1,15 @@
+{
+  "label": "visual-slam",
+  "permalink": "/docs/tags/visual-slam",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "part-4-ai-brain/chapter-9-robot-learning-ai-integration",
+      "title": "Chapter 9 - Visual SLAM & Navigation (Nav2)",
+      "description": "Comprehensive guide to Visual SLAM and navigation using Nav2 for robotics",
+      "permalink": "/docs/part-4-ai-brain/chapter-9-visual-slam-navigation"
+    }
+  ],
+  "unlisted": false
+}

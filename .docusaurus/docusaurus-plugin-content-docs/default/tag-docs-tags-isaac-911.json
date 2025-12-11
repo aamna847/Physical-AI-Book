@@ -1,0 +1,21 @@
+{
+  "label": "isaac",
+  "permalink": "/docs/tags/isaac",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "part-4-ai-brain/chapter-8-nvidia-isaac-sim-sdk",
+      "title": "Chapter 6 - NVIDIA Isaac Sim & SDK",
+      "description": "Comprehensive guide to NVIDIA Isaac Sim and SDK for robotics and AI",
+      "permalink": "/docs/part-4-ai-brain/chapter-6-nvidia-isaac-sim-sdk"
+    },
+    {
+      "id": "part-2-nervous-system/chapter-4-isaac-sim-sdks",
+      "title": "Chapter 7 - NVIDIA Isaac Sim & SDK",
+      "description": "Comprehensive guide to NVIDIA Isaac Sim and SDK for robotics and AI",
+      "permalink": "/docs/part-2-nervous-system/chapter-7-nvidia-isaac-sim-sdk"
+    }
+  ],
+  "unlisted": false
+}

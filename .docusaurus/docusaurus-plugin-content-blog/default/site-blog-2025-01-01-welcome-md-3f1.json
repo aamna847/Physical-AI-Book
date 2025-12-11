@@ -1,0 +1,62 @@
+{
+  "permalink": "/blog/welcome",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/packages/create-docusaurus/templates/shared/blog/2025-01-01-welcome.md",
+  "source": "@site/blog/2025-01-01-welcome.md",
+  "title": "Welcome to Physical AI & Humanoid Robotics Blog",
+  "description": "Welcome to our blog dedicated to exploring the fascinating intersection of artificial intelligence and physical robotics. Here, we'll dive deep into the concepts of embodied intelligence and discuss how AI systems can operate effectively in the physical world.",
+  "date": "2025-01-01T00:00:00.000Z",
+  "formattedDate": "January 1, 2025",
+  "tags": [
+    {
+      "label": "welcome",
+      "permalink": "/blog/tags/welcome"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/blog/tags/robotics"
+    },
+    {
+      "label": "ai",
+      "permalink": "/blog/tags/ai"
+    },
+    {
+      "label": "physical-ai",
+      "permalink": "/blog/tags/physical-ai"
+    }
+  ],
+  "readingTime": 1.23,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Physical AI Team",
+      "title": "Authors of the Physical AI & Humanoid Robotics Course",
+      "url": "https://github.com/physical-ai-team",
+      "image_url": "https://github.com/physical-ai-team.png",
+      "imageURL": "https://github.com/physical-ai-team.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome to Physical AI & Humanoid Robotics Blog",
+    "authors": [
+      {
+        "name": "Physical AI Team",
+        "title": "Authors of the Physical AI & Humanoid Robotics Course",
+        "url": "https://github.com/physical-ai-team",
+        "image_url": "https://github.com/physical-ai-team.png",
+        "imageURL": "https://github.com/physical-ai-team.png"
+      }
+    ],
+    "tags": [
+      "welcome",
+      "robotics",
+      "ai",
+      "physical-ai"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Understanding Embodied Intelligence in Physical AI",
+    "permalink": "/blog/embodied-intelligence"
+  }
+}

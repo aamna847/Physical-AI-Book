@@ -1,0 +1,15 @@
+{
+  "label": "services",
+  "permalink": "/docs/tags/services",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "part-2-nervous-system/chapter-3-ros2-architecture-core-concepts",
+      "title": "Chapter 3 - ROS 2 Architecture & Core Concepts",
+      "description": "Introduction to ROS 2 architecture, nodes, topics, services, and core concepts",
+      "permalink": "/docs/part-2-nervous-system/chapter-3-ros2-architecture-core-concepts"
+    }
+  ],
+  "unlisted": false
+}

@@ -1,0 +1,66 @@
+{
+  "permalink": "/blog/embodied-intelligence",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/packages/create-docusaurus/templates/shared/blog/2025-01-02-embodied-intelligence.md",
+  "source": "@site/blog/2025-01-02-embodied-intelligence.md",
+  "title": "Understanding Embodied Intelligence in Physical AI",
+  "description": "One of the core concepts underlying Physical AI is embodied intelligence - the idea that true intelligence emerges from the interaction between an agent and its environment. This concept fundamentally changes how we think about artificial intelligence.",
+  "date": "2025-01-02T00:00:00.000Z",
+  "formattedDate": "January 2, 2025",
+  "tags": [
+    {
+      "label": "embodied-intelligence",
+      "permalink": "/blog/tags/embodied-intelligence"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/blog/tags/robotics"
+    },
+    {
+      "label": "ai",
+      "permalink": "/blog/tags/ai"
+    },
+    {
+      "label": "concepts",
+      "permalink": "/blog/tags/concepts"
+    }
+  ],
+  "readingTime": 1.94,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Physical AI Team",
+      "title": "Authors of the Physical AI & Humanoid Robotics Course",
+      "url": "https://github.com/physical-ai-team",
+      "image_url": "https://github.com/physical-ai-team.png",
+      "imageURL": "https://github.com/physical-ai-team.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "embodied-intelligence",
+    "title": "Understanding Embodied Intelligence in Physical AI",
+    "authors": [
+      {
+        "name": "Physical AI Team",
+        "title": "Authors of the Physical AI & Humanoid Robotics Course",
+        "url": "https://github.com/physical-ai-team",
+        "image_url": "https://github.com/physical-ai-team.png",
+        "imageURL": "https://github.com/physical-ai-team.png"
+      }
+    ],
+    "tags": [
+      "embodied-intelligence",
+      "robotics",
+      "ai",
+      "concepts"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "ROS 2 as the Robotic Nervous System",
+    "permalink": "/blog/ros2-nervous-system"
+  },
+  "nextItem": {
+    "title": "Welcome to Physical AI & Humanoid Robotics Blog",
+    "permalink": "/blog/welcome"
+  }
+}

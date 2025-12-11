@@ -1,0 +1,62 @@
+{
+  "permalink": "/blog/ros2-nervous-system",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/packages/create-docusaurus/templates/shared/blog/2025-01-03-ros2-nervous-system.md",
+  "source": "@site/blog/2025-01-03-ros2-nervous-system.md",
+  "title": "ROS 2 as the Robotic Nervous System",
+  "description": "In the realm of robotics, communication and coordination are as vital as the nervous system is to biological organisms. ROS 2 (Robot Operating System 2) serves as the backbone of modern robotics applications, providing the infrastructure for different components to communicate, coordinate, and collaborate effectively.",
+  "date": "2025-01-03T00:00:00.000Z",
+  "formattedDate": "January 3, 2025",
+  "tags": [
+    {
+      "label": "ros2",
+      "permalink": "/blog/tags/ros-2"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/blog/tags/robotics"
+    },
+    {
+      "label": "architecture",
+      "permalink": "/blog/tags/architecture"
+    },
+    {
+      "label": "communication",
+      "permalink": "/blog/tags/communication"
+    }
+  ],
+  "readingTime": 2.825,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Physical AI Team",
+      "title": "Authors of the Physical AI & Humanoid Robotics Course",
+      "url": "https://github.com/physical-ai-team",
+      "image_url": "https://github.com/physical-ai-team.png",
+      "imageURL": "https://github.com/physical-ai-team.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "ros2-nervous-system",
+    "title": "ROS 2 as the Robotic Nervous System",
+    "authors": [
+      {
+        "name": "Physical AI Team",
+        "title": "Authors of the Physical AI & Humanoid Robotics Course",
+        "url": "https://github.com/physical-ai-team",
+        "image_url": "https://github.com/physical-ai-team.png",
+        "imageURL": "https://github.com/physical-ai-team.png"
+      }
+    ],
+    "tags": [
+      "ros2",
+      "robotics",
+      "architecture",
+      "communication"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Understanding Embodied Intelligence in Physical AI",
+    "permalink": "/blog/embodied-intelligence"
+  }
+}

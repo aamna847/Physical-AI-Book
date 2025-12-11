@@ -1,0 +1,1525 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs",
+          "editUrlLocalized": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\humanoid-robotics\\physical-ai-book\\docusaurus\\sidebars.js",
+          "contentPath": "C:\\humanoid-robotics\\physical-ai-book\\docusaurus\\docs",
+          "contentPathLocalized": "C:\\humanoid-robotics\\physical-ai-book\\docusaurus\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "introduction",
+              "title": "🤖 🤖 Curriculum Module: Physical AI & Humanoid Robotics 🧠 🤖",
+              "description": "Welcome to the comprehensive guide on Physical AI & Humanoid Robotics. This book covers everything from the fundamentals of embodied intelligence to advanced humanoid control systems, following the principles of applying AI knowledge to control Humanoid Robots in simulated and real-world environments.",
+              "source": "@site/docs/introduction.md",
+              "sourceDirName": ".",
+              "slug": "/introduction",
+              "permalink": "/docs/introduction",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/introduction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Chapter 1 - Introduction to Physical AI & Embodied Intelligence",
+                "permalink": "/docs/part-1-foundations/chapter-1-introduction-to-physical-ai"
+              }
+            },
+            {
+              "id": "part-1-foundations/chapter-1-introduction-to-physical-ai",
+              "title": "Chapter 1 - Introduction to Physical AI & Embodied Intelligence",
+              "description": "Introduction to Physical AI and embodied intelligence concepts",
+              "source": "@site/docs/part-1-foundations/chapter-1-introduction-to-physical-ai.md",
+              "sourceDirName": "part-1-foundations",
+              "slug": "/part-1-foundations/chapter-1-introduction-to-physical-ai",
+              "permalink": "/docs/part-1-foundations/chapter-1-introduction-to-physical-ai",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-1-foundations/chapter-1-introduction-to-physical-ai.md",
+              "tags": [
+                {
+                  "label": "physical-ai",
+                  "permalink": "/docs/tags/physical-ai"
+                },
+                {
+                  "label": "embodied-intelligence",
+                  "permalink": "/docs/tags/embodied-intelligence"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/docs/tags/robotics"
+                },
+                {
+                  "label": "ai",
+                  "permalink": "/docs/tags/ai"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "slug": "chapter-1-introduction-to-physical-ai",
+                "title": "Chapter 1 - Introduction to Physical AI & Embodied Intelligence",
+                "description": "Introduction to Physical AI and embodied intelligence concepts",
+                "tags": [
+                  "physical-ai",
+                  "embodied-intelligence",
+                  "robotics",
+                  "ai"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🤖 🤖 Curriculum Module: Physical AI & Humanoid Robotics 🧠 🤖",
+                "permalink": "/docs/introduction"
+              },
+              "next": {
+                "title": "Chapter 2 - Sensors & Perception (LiDAR, Cameras, IMUs)",
+                "permalink": "/docs/part-1-foundations/chapter-2-sensors-perception"
+              }
+            },
+            {
+              "id": "part-1-foundations/chapter-2-sensors-perception",
+              "title": "Chapter 2 - Sensors & Perception (LiDAR, Cameras, IMUs)",
+              "description": "Understanding sensor technologies and perception for robotics",
+              "source": "@site/docs/part-1-foundations/chapter-2-sensors-perception.md",
+              "sourceDirName": "part-1-foundations",
+              "slug": "/part-1-foundations/chapter-2-sensors-perception",
+              "permalink": "/docs/part-1-foundations/chapter-2-sensors-perception",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-1-foundations/chapter-2-sensors-perception.md",
+              "tags": [
+                {
+                  "label": "sensors",
+                  "permalink": "/docs/tags/sensors"
+                },
+                {
+                  "label": "perception",
+                  "permalink": "/docs/tags/perception"
+                },
+                {
+                  "label": "lidar",
+                  "permalink": "/docs/tags/lidar"
+                },
+                {
+                  "label": "cameras",
+                  "permalink": "/docs/tags/cameras"
+                },
+                {
+                  "label": "imus",
+                  "permalink": "/docs/tags/imus"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/docs/tags/robotics"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "slug": "chapter-2-sensors-perception",
+                "title": "Chapter 2 - Sensors & Perception (LiDAR, Cameras, IMUs)",
+                "description": "Understanding sensor technologies and perception for robotics",
+                "tags": [
+                  "sensors",
+                  "perception",
+                  "lidar",
+                  "cameras",
+                  "imus",
+                  "robotics"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 1 - Introduction to Physical AI & Embodied Intelligence",
+                "permalink": "/docs/part-1-foundations/chapter-1-introduction-to-physical-ai"
+              },
+              "next": {
+                "title": "Chapter 3 - ROS 2 Architecture & Core Concepts",
+                "permalink": "/docs/part-2-nervous-system/chapter-3-ros2-architecture-core-concepts"
+              }
+            },
+            {
+              "id": "part-2-nervous-system/chapter-3-ros2-architecture-core-concepts",
+              "title": "Chapter 3 - ROS 2 Architecture & Core Concepts",
+              "description": "Introduction to ROS 2 architecture, nodes, topics, services, and core concepts",
+              "source": "@site/docs/part-2-nervous-system/chapter-3-ros2-architecture-core-concepts.md",
+              "sourceDirName": "part-2-nervous-system",
+              "slug": "/part-2-nervous-system/chapter-3-ros2-architecture-core-concepts",
+              "permalink": "/docs/part-2-nervous-system/chapter-3-ros2-architecture-core-concepts",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-2-nervous-system/chapter-3-ros2-architecture-core-concepts.md",
+              "tags": [
+                {
+                  "label": "ros2",
+                  "permalink": "/docs/tags/ros-2"
+                },
+                {
+                  "label": "architecture",
+                  "permalink": "/docs/tags/architecture"
+                },
+                {
+                  "label": "nodes",
+                  "permalink": "/docs/tags/nodes"
+                },
+                {
+                  "label": "topics",
+                  "permalink": "/docs/tags/topics"
+                },
+                {
+                  "label": "services",
+                  "permalink": "/docs/tags/services"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/docs/tags/robotics"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "slug": "chapter-3-ros2-architecture-core-concepts",
+                "title": "Chapter 3 - ROS 2 Architecture & Core Concepts",
+                "description": "Introduction to ROS 2 architecture, nodes, topics, services, and core concepts",
+                "tags": [
+                  "ros2",
+                  "architecture",
+                  "nodes",
+                  "topics",
+                  "services",
+                  "robotics"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 2 - Sensors & Perception (LiDAR, Cameras, IMUs)",
+                "permalink": "/docs/part-1-foundations/chapter-2-sensors-perception"
+              },
+              "next": {
+                "title": "Chapter 4 - Vision-Language-Action Systems",
+                "permalink": "/docs/part-2-nervous-system/chapter-4-vision-language-action-systems"
+              }
+            },
+            {
+              "id": "part-2-nervous-system/chapter-4-building-ros2-nodes-python",
+              "title": "Chapter 4 - Vision-Language-Action Systems",
+              "description": "Implementation of Vision-Language-Action systems for conversational robotics",
+              "source": "@site/docs/part-2-nervous-system/chapter-4-building-ros2-nodes-python.md",
+              "sourceDirName": "part-2-nervous-system",
+              "slug": "/part-2-nervous-system/chapter-4-vision-language-action-systems",
+              "permalink": "/docs/part-2-nervous-system/chapter-4-vision-language-action-systems",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-2-nervous-system/chapter-4-building-ros2-nodes-python.md",
+              "tags": [
+                {
+                  "label": "vision-language-action",
+                  "permalink": "/docs/tags/vision-language-action"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/docs/tags/robotics"
+                },
+                {
+                  "label": "ai",
+                  "permalink": "/docs/tags/ai"
+                },
+                {
+                  "label": "nlp",
+                  "permalink": "/docs/tags/nlp"
+                },
+                {
+                  "label": "computer-vision",
+                  "permalink": "/docs/tags/computer-vision"
+                },
+                {
+                  "label": "actuation",
+                  "permalink": "/docs/tags/actuation"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "slug": "chapter-4-vision-language-action-systems",
+                "title": "Chapter 4 - Vision-Language-Action Systems",
+                "description": "Implementation of Vision-Language-Action systems for conversational robotics",
+                "tags": [
+                  "vision-language-action",
+                  "robotics",
+                  "ai",
+                  "nlp",
+                  "computer-vision",
+                  "actuation"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 3 - ROS 2 Architecture & Core Concepts",
+                "permalink": "/docs/part-2-nervous-system/chapter-3-ros2-architecture-core-concepts"
+              },
+              "next": {
+                "title": "Chapter 5 - Launch Systems & Parameter Management",
+                "permalink": "/docs/part-2-nervous-system/chapter-5-launch-systems-parameter-management"
+              }
+            },
+            {
+              "id": "part-2-nervous-system/chapter-4-isaac-sim-sdks",
+              "title": "Chapter 7 - NVIDIA Isaac Sim & SDK",
+              "description": "Comprehensive guide to NVIDIA Isaac Sim and SDK for robotics and AI",
+              "source": "@site/docs/part-2-nervous-system/chapter-4-isaac-sim-sdks.md",
+              "sourceDirName": "part-2-nervous-system",
+              "slug": "/part-2-nervous-system/chapter-7-nvidia-isaac-sim-sdk",
+              "permalink": "/docs/part-2-nervous-system/chapter-7-nvidia-isaac-sim-sdk",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-2-nervous-system/chapter-4-isaac-sim-sdks.md",
+              "tags": [
+                {
+                  "label": "nvidia",
+                  "permalink": "/docs/tags/nvidia"
+                },
+                {
+                  "label": "isaac",
+                  "permalink": "/docs/tags/isaac"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/docs/tags/robotics"
+                },
+                {
+                  "label": "ai",
+                  "permalink": "/docs/tags/ai"
+                },
+                {
+                  "label": "simulation",
+                  "permalink": "/docs/tags/simulation"
+                },
+                {
+                  "label": "perception",
+                  "permalink": "/docs/tags/perception"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "slug": "chapter-7-nvidia-isaac-sim-sdk",
+                "title": "Chapter 7 - NVIDIA Isaac Sim & SDK",
+                "description": "Comprehensive guide to NVIDIA Isaac Sim and SDK for robotics and AI",
+                "tags": [
+                  "nvidia",
+                  "isaac",
+                  "robotics",
+                  "ai",
+                  "simulation",
+                  "perception"
+                ]
+              }
+            },
+            {
+              "id": "part-2-nervous-system/chapter-4-simulation-gazebo-unity-integration",
+              "title": "Chapter 6 - Simulation Environments (Gazebo & Unity)",
+              "description": "Comprehensive guide to simulation environments for robotics using Gazebo and Unity",
+              "source": "@site/docs/part-2-nervous-system/chapter-4-simulation-gazebo-unity-integration.md",
+              "sourceDirName": "part-2-nervous-system",
+              "slug": "/part-2-nervous-system/chapter-6-simulation-gazebo-unity-integration",
+              "permalink": "/docs/part-2-nervous-system/chapter-6-simulation-gazebo-unity-integration",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-2-nervous-system/chapter-4-simulation-gazebo-unity-integration.md",
+              "tags": [
+                {
+                  "label": "simulation",
+                  "permalink": "/docs/tags/simulation"
+                },
+                {
+                  "label": "gazebo",
+                  "permalink": "/docs/tags/gazebo"
+                },
+                {
+                  "label": "unity",
+                  "permalink": "/docs/tags/unity"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/docs/tags/robotics"
+                },
+                {
+                  "label": "physics",
+                  "permalink": "/docs/tags/physics"
+                },
+                {
+                  "label": "3d",
+                  "permalink": "/docs/tags/3-d"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "slug": "chapter-6-simulation-gazebo-unity-integration",
+                "title": "Chapter 6 - Simulation Environments (Gazebo & Unity)",
+                "description": "Comprehensive guide to simulation environments for robotics using Gazebo and Unity",
+                "tags": [
+                  "simulation",
+                  "gazebo",
+                  "unity",
+                  "robotics",
+                  "physics",
+                  "3d"
+                ]
+              }
+            },
+            {
+              "id": "part-2-nervous-system/chapter-5-launch-systems-parameter-management",
+              "title": "Chapter 5 - Launch Systems & Parameter Management",
+              "description": "Managing complex ROS 2 deployments using launch files and parameter management",
+              "source": "@site/docs/part-2-nervous-system/chapter-5-launch-systems-parameter-management.md",
+              "sourceDirName": "part-2-nervous-system",
+              "slug": "/part-2-nervous-system/chapter-5-launch-systems-parameter-management",
+              "permalink": "/docs/part-2-nervous-system/chapter-5-launch-systems-parameter-management",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-2-nervous-system/chapter-5-launch-systems-parameter-management.md",
+              "tags": [
+                {
+                  "label": "ros2",
+                  "permalink": "/docs/tags/ros-2"
+                },
+                {
+                  "label": "launch",
+                  "permalink": "/docs/tags/launch"
+                },
+                {
+                  "label": "parameters",
+                  "permalink": "/docs/tags/parameters"
+                },
+                {
+                  "label": "configuration",
+                  "permalink": "/docs/tags/configuration"
+                },
+                {
+                  "label": "deployment",
+                  "permalink": "/docs/tags/deployment"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "slug": "chapter-5-launch-systems-parameter-management",
+                "title": "Chapter 5 - Launch Systems & Parameter Management",
+                "description": "Managing complex ROS 2 deployments using launch files and parameter management",
+                "tags": [
+                  "ros2",
+                  "launch",
+                  "parameters",
+                  "configuration",
+                  "deployment"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 4 - Vision-Language-Action Systems",
+                "permalink": "/docs/part-2-nervous-system/chapter-4-vision-language-action-systems"
+              },
+              "next": {
+                "title": "Chapter 6 - Simulation with Gazebo (URDF/SDF)",
+                "permalink": "/docs/part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf"
+              }
+            },
+            {
+              "id": "part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf",
+              "title": "Chapter 6 - Simulation with Gazebo (URDF/SDF)",
+              "description": "Comprehensive guide to simulation with Gazebo using URDF and SDF for robotics",
+              "source": "@site/docs/part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf.md",
+              "sourceDirName": "part-3-digital-twin",
+              "slug": "/part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf",
+              "permalink": "/docs/part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf.md",
+              "tags": [
+                {
+                  "label": "simulation",
+                  "permalink": "/docs/tags/simulation"
+                },
+                {
+                  "label": "gazebo",
+                  "permalink": "/docs/tags/gazebo"
+                },
+                {
+                  "label": "urdf",
+                  "permalink": "/docs/tags/urdf"
+                },
+                {
+                  "label": "sdf",
+                  "permalink": "/docs/tags/sdf"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/docs/tags/robotics"
+                },
+                {
+                  "label": "physics",
+                  "permalink": "/docs/tags/physics"
+                },
+                {
+                  "label": "3d",
+                  "permalink": "/docs/tags/3-d"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "slug": "chapter-6-simulation-gazebo-urdf-sdf",
+                "title": "Chapter 6 - Simulation with Gazebo (URDF/SDF)",
+                "description": "Comprehensive guide to simulation with Gazebo using URDF and SDF for robotics",
+                "tags": [
+                  "simulation",
+                  "gazebo",
+                  "urdf",
+                  "sdf",
+                  "robotics",
+                  "physics",
+                  "3d"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 5 - Launch Systems & Parameter Management",
+                "permalink": "/docs/part-2-nervous-system/chapter-5-launch-systems-parameter-management"
+              },
+              "next": {
+                "title": "Chapter 7 - Physics Simulation & Unity Integration",
+                "permalink": "/docs/part-3-digital-twin/chapter-7-physics-simulation-unity-integration"
+              }
+            },
+            {
+              "id": "part-3-digital-twin/chapter-7-physics-simulation-unity-integration",
+              "title": "Chapter 7 - Physics Simulation & Unity Integration",
+              "description": "Comprehensive guide to physics simulation and Unity integration for robotics",
+              "source": "@site/docs/part-3-digital-twin/chapter-7-physics-simulation-unity-integration.md",
+              "sourceDirName": "part-3-digital-twin",
+              "slug": "/part-3-digital-twin/chapter-7-physics-simulation-unity-integration",
+              "permalink": "/docs/part-3-digital-twin/chapter-7-physics-simulation-unity-integration",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-3-digital-twin/chapter-7-physics-simulation-unity-integration.md",
+              "tags": [
+                {
+                  "label": "physics",
+                  "permalink": "/docs/tags/physics"
+                },
+                {
+                  "label": "simulation",
+                  "permalink": "/docs/tags/simulation"
+                },
+                {
+                  "label": "unity",
+                  "permalink": "/docs/tags/unity"
+                },
+                {
+                  "label": "integration",
+                  "permalink": "/docs/tags/integration"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/docs/tags/robotics"
+                },
+                {
+                  "label": "3d",
+                  "permalink": "/docs/tags/3-d"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "slug": "chapter-7-physics-simulation-unity-integration",
+                "title": "Chapter 7 - Physics Simulation & Unity Integration",
+                "description": "Comprehensive guide to physics simulation and Unity integration for robotics",
+                "tags": [
+                  "physics",
+                  "simulation",
+                  "unity",
+                  "integration",
+                  "robotics",
+                  "3d"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 6 - Simulation with Gazebo (URDF/SDF)",
+                "permalink": "/docs/part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf"
+              },
+              "next": {
+                "title": "Chapter 6 - NVIDIA Isaac Sim & SDK",
+                "permalink": "/docs/part-4-ai-brain/chapter-6-nvidia-isaac-sim-sdk"
+              }
+            },
+            {
+              "id": "part-4-ai-brain/chapter-10-vision-language-action",
+              "title": "Chapter 10 - Reinforcement Learning for Control",
+              "description": "Comprehensive guide to reinforcement learning techniques for robotic control",
+              "source": "@site/docs/part-4-ai-brain/chapter-10-vision-language-action.md",
+              "sourceDirName": "part-4-ai-brain",
+              "slug": "/part-4-ai-brain/chapter-10-reinforcement-learning-control",
+              "permalink": "/docs/part-4-ai-brain/chapter-10-reinforcement-learning-control",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-4-ai-brain/chapter-10-vision-language-action.md",
+              "tags": [
+                {
+                  "label": "reinforcement-learning",
+                  "permalink": "/docs/tags/reinforcement-learning"
+                },
+                {
+                  "label": "rl",
+                  "permalink": "/docs/tags/rl"
+                },
+                {
+                  "label": "control",
+                  "permalink": "/docs/tags/control"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/docs/tags/robotics"
+                },
+                {
+                  "label": "ai",
+                  "permalink": "/docs/tags/ai"
+                },
+                {
+                  "label": "machine-learning",
+                  "permalink": "/docs/tags/machine-learning"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "slug": "chapter-10-reinforcement-learning-control",
+                "title": "Chapter 10 - Reinforcement Learning for Control",
+                "description": "Comprehensive guide to reinforcement learning techniques for robotic control",
+                "tags": [
+                  "reinforcement-learning",
+                  "rl",
+                  "control",
+                  "robotics",
+                  "ai",
+                  "machine-learning"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 9 - Visual SLAM & Navigation (Nav2)",
+                "permalink": "/docs/part-4-ai-brain/chapter-9-visual-slam-navigation"
+              },
+              "next": {
+                "title": "Chapter 11 - Humanoid Kinematics & Bipedal Locomotion",
+                "permalink": "/docs/part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion"
+              }
+            },
+            {
+              "id": "part-4-ai-brain/chapter-8-nvidia-isaac-sim-sdk",
+              "title": "Chapter 6 - NVIDIA Isaac Sim & SDK",
+              "description": "Comprehensive guide to NVIDIA Isaac Sim and SDK for robotics and AI",
+              "source": "@site/docs/part-4-ai-brain/chapter-8-nvidia-isaac-sim-sdk.md",
+              "sourceDirName": "part-4-ai-brain",
+              "slug": "/part-4-ai-brain/chapter-6-nvidia-isaac-sim-sdk",
+              "permalink": "/docs/part-4-ai-brain/chapter-6-nvidia-isaac-sim-sdk",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-4-ai-brain/chapter-8-nvidia-isaac-sim-sdk.md",
+              "tags": [
+                {
+                  "label": "nvidia",
+                  "permalink": "/docs/tags/nvidia"
+                },
+                {
+                  "label": "isaac",
+                  "permalink": "/docs/tags/isaac"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/docs/tags/robotics"
+                },
+                {
+                  "label": "ai",
+                  "permalink": "/docs/tags/ai"
+                },
+                {
+                  "label": "simulation",
+                  "permalink": "/docs/tags/simulation"
+                },
+                {
+                  "label": "perception",
+                  "permalink": "/docs/tags/perception"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "slug": "chapter-6-nvidia-isaac-sim-sdk",
+                "title": "Chapter 6 - NVIDIA Isaac Sim & SDK",
+                "description": "Comprehensive guide to NVIDIA Isaac Sim and SDK for robotics and AI",
+                "tags": [
+                  "nvidia",
+                  "isaac",
+                  "robotics",
+                  "ai",
+                  "simulation",
+                  "perception"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 7 - Physics Simulation & Unity Integration",
+                "permalink": "/docs/part-3-digital-twin/chapter-7-physics-simulation-unity-integration"
+              },
+              "next": {
+                "title": "Chapter 9 - Visual SLAM & Navigation (Nav2)",
+                "permalink": "/docs/part-4-ai-brain/chapter-9-visual-slam-navigation"
+              }
+            },
+            {
+              "id": "part-4-ai-brain/chapter-9-robot-learning-ai-integration",
+              "title": "Chapter 9 - Visual SLAM & Navigation (Nav2)",
+              "description": "Comprehensive guide to Visual SLAM and navigation using Nav2 for robotics",
+              "source": "@site/docs/part-4-ai-brain/chapter-9-robot-learning-ai-integration.md",
+              "sourceDirName": "part-4-ai-brain",
+              "slug": "/part-4-ai-brain/chapter-9-visual-slam-navigation",
+              "permalink": "/docs/part-4-ai-brain/chapter-9-visual-slam-navigation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-4-ai-brain/chapter-9-robot-learning-ai-integration.md",
+              "tags": [
+                {
+                  "label": "slam",
+                  "permalink": "/docs/tags/slam"
+                },
+                {
+                  "label": "visual-slam",
+                  "permalink": "/docs/tags/visual-slam"
+                },
+                {
+                  "label": "navigation",
+                  "permalink": "/docs/tags/navigation"
+                },
+                {
+                  "label": "nav2",
+                  "permalink": "/docs/tags/nav-2"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/docs/tags/robotics"
+                },
+                {
+                  "label": "ai",
+                  "permalink": "/docs/tags/ai"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "slug": "chapter-9-visual-slam-navigation",
+                "title": "Chapter 9 - Visual SLAM & Navigation (Nav2)",
+                "description": "Comprehensive guide to Visual SLAM and navigation using Nav2 for robotics",
+                "tags": [
+                  "slam",
+                  "visual-slam",
+                  "navigation",
+                  "nav2",
+                  "robotics",
+                  "ai"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 6 - NVIDIA Isaac Sim & SDK",
+                "permalink": "/docs/part-4-ai-brain/chapter-6-nvidia-isaac-sim-sdk"
+              },
+              "next": {
+                "title": "Chapter 10 - Reinforcement Learning for Control",
+                "permalink": "/docs/part-4-ai-brain/chapter-10-reinforcement-learning-control"
+              }
+            },
+            {
+              "id": "part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion",
+              "title": "Chapter 11 - Humanoid Kinematics & Bipedal Locomotion",
+              "description": "Comprehensive guide to humanoid kinematics and bipedal locomotion for robotics",
+              "source": "@site/docs/part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion.md",
+              "sourceDirName": "part-5-advanced-humanoids",
+              "slug": "/part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion",
+              "permalink": "/docs/part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion.md",
+              "tags": [
+                {
+                  "label": "humanoid",
+                  "permalink": "/docs/tags/humanoid"
+                },
+                {
+                  "label": "kinematics",
+                  "permalink": "/docs/tags/kinematics"
+                },
+                {
+                  "label": "locomotion",
+                  "permalink": "/docs/tags/locomotion"
+                },
+                {
+                  "label": "bipedal",
+                  "permalink": "/docs/tags/bipedal"
+                },
+                {
+                  "label": "walking",
+                  "permalink": "/docs/tags/walking"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/docs/tags/robotics"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "slug": "chapter-11-humanoid-kinematics-locomotion",
+                "title": "Chapter 11 - Humanoid Kinematics & Bipedal Locomotion",
+                "description": "Comprehensive guide to humanoid kinematics and bipedal locomotion for robotics",
+                "tags": [
+                  "humanoid",
+                  "kinematics",
+                  "locomotion",
+                  "bipedal",
+                  "walking",
+                  "robotics"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 10 - Reinforcement Learning for Control",
+                "permalink": "/docs/part-4-ai-brain/chapter-10-reinforcement-learning-control"
+              },
+              "next": {
+                "title": "Chapter 12 - VLA (Vision-Language-Action) & Conversational Robotics",
+                "permalink": "/docs/part-5-advanced-humanoids/chapter-12-vla-conversational-robotics"
+              }
+            },
+            {
+              "id": "part-5-advanced-humanoids/chapter-12-vla-conversational-robotics",
+              "title": "Chapter 12 - VLA (Vision-Language-Action) & Conversational Robotics",
+              "description": "Comprehensive guide to Vision-Language-Action systems and conversational robotics",
+              "source": "@site/docs/part-5-advanced-humanoids/chapter-12-vla-conversational-robotics.md",
+              "sourceDirName": "part-5-advanced-humanoids",
+              "slug": "/part-5-advanced-humanoids/chapter-12-vla-conversational-robotics",
+              "permalink": "/docs/part-5-advanced-humanoids/chapter-12-vla-conversational-robotics",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-5-advanced-humanoids/chapter-12-vla-conversational-robotics.md",
+              "tags": [
+                {
+                  "label": "vla",
+                  "permalink": "/docs/tags/vla"
+                },
+                {
+                  "label": "vision-language-action",
+                  "permalink": "/docs/tags/vision-language-action"
+                },
+                {
+                  "label": "conversational",
+                  "permalink": "/docs/tags/conversational"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/docs/tags/robotics"
+                },
+                {
+                  "label": "ai",
+                  "permalink": "/docs/tags/ai"
+                },
+                {
+                  "label": "nlp",
+                  "permalink": "/docs/tags/nlp"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "slug": "chapter-12-vla-conversational-robotics",
+                "title": "Chapter 12 - VLA (Vision-Language-Action) & Conversational Robotics",
+                "description": "Comprehensive guide to Vision-Language-Action systems and conversational robotics",
+                "tags": [
+                  "vla",
+                  "vision-language-action",
+                  "conversational",
+                  "robotics",
+                  "ai",
+                  "nlp"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 11 - Humanoid Kinematics & Bipedal Locomotion",
+                "permalink": "/docs/part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion"
+              },
+              "next": {
+                "title": "Chapter 13 - Hardware Requirements & Robot Platforms",
+                "permalink": "/docs/part-5-advanced-humanoids/hardware-requirements-robot-platforms"
+              }
+            },
+            {
+              "id": "part-5-advanced-humanoids/chapter-13-hardware-requirements-robot-platforms",
+              "title": "Chapter 13 - Hardware Requirements & Robot Platforms",
+              "description": "Overview of hardware requirements and robot platform recommendations for Physical AI & Humanoid Robotics",
+              "source": "@site/docs/part-5-advanced-humanoids/chapter-13-hardware-requirements-robot-platforms.md",
+              "sourceDirName": "part-5-advanced-humanoids",
+              "slug": "/part-5-advanced-humanoids/hardware-requirements-robot-platforms",
+              "permalink": "/docs/part-5-advanced-humanoids/hardware-requirements-robot-platforms",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-5-advanced-humanoids/chapter-13-hardware-requirements-robot-platforms.md",
+              "tags": [
+                {
+                  "label": "hardware",
+                  "permalink": "/docs/tags/hardware"
+                },
+                {
+                  "label": "requirements",
+                  "permalink": "/docs/tags/requirements"
+                },
+                {
+                  "label": "robots",
+                  "permalink": "/docs/tags/robots"
+                },
+                {
+                  "label": "platforms",
+                  "permalink": "/docs/tags/platforms"
+                },
+                {
+                  "label": "ai",
+                  "permalink": "/docs/tags/ai"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/docs/tags/robotics"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "slug": "hardware-requirements-robot-platforms",
+                "title": "Chapter 13 - Hardware Requirements & Robot Platforms",
+                "description": "Overview of hardware requirements and robot platform recommendations for Physical AI & Humanoid Robotics",
+                "tags": [
+                  "hardware",
+                  "requirements",
+                  "robots",
+                  "platforms",
+                  "ai",
+                  "robotics"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 12 - VLA (Vision-Language-Action) & Conversational Robotics",
+                "permalink": "/docs/part-5-advanced-humanoids/chapter-12-vla-conversational-robotics"
+              }
+            },
+            {
+              "id": "search-functionality",
+              "title": "ℹ️ Search Functionality Documentation ℹ️",
+              "description": "📊 Overview 📊",
+              "source": "@site/docs/search-functionality.md",
+              "sourceDirName": ".",
+              "slug": "/search-functionality",
+              "permalink": "/docs/search-functionality",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/search-functionality.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "Introduction",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "introduction"
+                  }
+                ],
+                "collapsed": false,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Part 1: Foundations",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "part-1-foundations/chapter-1-introduction-to-physical-ai"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part-1-foundations/chapter-2-sensors-perception"
+                  }
+                ],
+                "collapsed": false,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Part 2: The Nervous System (ROS 2)",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "part-2-nervous-system/chapter-3-ros2-architecture-core-concepts"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part-2-nervous-system/chapter-4-building-ros2-nodes-python"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part-2-nervous-system/chapter-5-launch-systems-parameter-management"
+                  }
+                ],
+                "collapsed": false,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Part 3: The Digital Twin",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part-3-digital-twin/chapter-7-physics-simulation-unity-integration"
+                  }
+                ],
+                "collapsed": false,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Part 4: The AI Brain",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "part-4-ai-brain/chapter-8-nvidia-isaac-sim-sdk"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part-4-ai-brain/chapter-9-robot-learning-ai-integration"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part-4-ai-brain/chapter-10-vision-language-action"
+                  }
+                ],
+                "collapsed": false,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Part 5: Advanced Humanoids",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part-5-advanced-humanoids/chapter-12-vla-conversational-robotics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part-5-advanced-humanoids/chapter-13-hardware-requirements-robot-platforms"
+                  }
+                ],
+                "collapsed": false,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "ros2-nervous-system",
+          "metadata": {
+            "permalink": "/blog/ros2-nervous-system",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/packages/create-docusaurus/templates/shared/blog/2025-01-03-ros2-nervous-system.md",
+            "source": "@site/blog/2025-01-03-ros2-nervous-system.md",
+            "title": "ROS 2 as the Robotic Nervous System",
+            "description": "In the realm of robotics, communication and coordination are as vital as the nervous system is to biological organisms. ROS 2 (Robot Operating System 2) serves as the backbone of modern robotics applications, providing the infrastructure for different components to communicate, coordinate, and collaborate effectively.",
+            "date": "2025-01-03T00:00:00.000Z",
+            "formattedDate": "January 3, 2025",
+            "tags": [
+              {
+                "label": "ros2",
+                "permalink": "/blog/tags/ros-2"
+              },
+              {
+                "label": "robotics",
+                "permalink": "/blog/tags/robotics"
+              },
+              {
+                "label": "architecture",
+                "permalink": "/blog/tags/architecture"
+              },
+              {
+                "label": "communication",
+                "permalink": "/blog/tags/communication"
+              }
+            ],
+            "readingTime": 2.825,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Physical AI Team",
+                "title": "Authors of the Physical AI & Humanoid Robotics Course",
+                "url": "https://github.com/physical-ai-team",
+                "image_url": "https://github.com/physical-ai-team.png",
+                "imageURL": "https://github.com/physical-ai-team.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "ros2-nervous-system",
+              "title": "ROS 2 as the Robotic Nervous System",
+              "authors": [
+                {
+                  "name": "Physical AI Team",
+                  "title": "Authors of the Physical AI & Humanoid Robotics Course",
+                  "url": "https://github.com/physical-ai-team",
+                  "image_url": "https://github.com/physical-ai-team.png",
+                  "imageURL": "https://github.com/physical-ai-team.png"
+                }
+              ],
+              "tags": [
+                "ros2",
+                "robotics",
+                "architecture",
+                "communication"
+              ]
+            },
+            "unlisted": false,
+            "nextItem": {
+              "title": "Understanding Embodied Intelligence in Physical AI",
+              "permalink": "/blog/embodied-intelligence"
+            }
+          },
+          "content": "In the realm of robotics, communication and coordination are as vital as the nervous system is to biological organisms. ROS 2 (Robot Operating System 2) serves as the backbone of modern robotics applications, providing the infrastructure for different components to communicate, coordinate, and collaborate effectively.\n\n## The Nervous System Metaphor\n\nJust as the human nervous system senses the environment through receptors, processes information in the brain, and executes responses through muscles, a robotic system requires:\n\n1. **Sensors** to perceive the environment (vision, touch, sound, proprioception)\n2. **Processing Centers** to interpret information and plan actions\n3. **Actuators** to execute physical movements\n4. **Communication Pathways** to connect all these components\n\nROS 2 provides this communication infrastructure, enabling nodes representing different components to interact seamlessly.\n\n## Core Communication Patterns\n\n### Topics (Publish-Subscribe)\nSimilar to how the autonomic nervous system continuously sends signals about internal states, ROS 2 topics enable continuous data streaming between nodes:\n\n- Sensor nodes publish sensor readings\n- Visualization tools subscribe to multiple data streams\n- Control systems receive continuous feedback\n\n```python\n# Example of sensor data publishing\npublisher = node.create_publisher(LaserScan, '/scan', 10)\n```\n\n### Services (Request-Response)\nLike voluntary actions that require conscious decision-making, services provide synchronous communication for specific requests:\n\n- Navigation goal requests\n- Object recognition queries\n- Mapping services\n- Calibration requests\n\n```python\n# Example of service call\nfuture = client.call_async(request)\n```\n\n### Actions\nFor complex behaviors that take extended time and provide feedback, actions enable long-running operations:\n\n- Navigation to distant locations with periodic updates\n- Complex manipulation tasks with intermediate status\n- Learning processes that may take minutes or hours\n\n## Benefits of ROS 2 Architecture\n\n### Modularity\nDifferent teams can develop individual nodes independently, then integrate them into a cohesive system. This allows specialists to focus on their area of expertise while contributing to the broader system.\n\n### Flexibility\nComponents can be replaced, upgraded, or switched without affecting other parts of the system. This enables experimentation with different algorithms or approaches.\n\n### Tooling\nThe ROS 2 ecosystem provides powerful tools for visualization (RViz2), debugging (rqt), profiling (rosbags), and monitoring (ros2 topic/tools).\n\n## Integration in Physical AI\n\nIn the context of Physical AI and embodied intelligence, ROS 2 enables:\n\n- **Real-time Perception-Action Loops**: Continuous sensor processing leading to physical actions\n- **Multi-Modal Integration**: Combining data from diverse sensors (vision, LiDAR, tactile, auditory)\n- **Hierarchical Control**: High-level planning nodes coordinating with low-level control nodes\n- **Sim-to-Real Transfer**: Testing components in simulation before deployment on real hardware\n\n## Challenges and Considerations\n\n### Performance\nReal-time robotics applications have strict timing requirements that must be met consistently. Careful design and optimization are required to ensure that communication overhead doesn't impact performance.\n\n### Safety\nSince ROS 2 nodes can command physical actions, safety mechanisms must be robust and reliable. This includes emergency stop capabilities and redundant safety systems.\n\n### Distributed Systems\nWhen robots have components distributed across multiple computers, network reliability and latency become critical factors in system design.\n\n## Looking Forward\n\nIn our Physical AI curriculum, we'll explore hands-on examples of ROS 2 implementations, including how to design nodes that embody the principles of embodied intelligence while leveraging the communication and coordination capabilities of ROS 2. We'll see how this \"nervous system\" approach enables robots to develop intelligence through interaction with the physical world.\n\nUnderstanding these communication patterns is fundamental to building effective Physical AI systems that can operate successfully in the real world."
+        },
+        {
+          "id": "embodied-intelligence",
+          "metadata": {
+            "permalink": "/blog/embodied-intelligence",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/packages/create-docusaurus/templates/shared/blog/2025-01-02-embodied-intelligence.md",
+            "source": "@site/blog/2025-01-02-embodied-intelligence.md",
+            "title": "Understanding Embodied Intelligence in Physical AI",
+            "description": "One of the core concepts underlying Physical AI is embodied intelligence - the idea that true intelligence emerges from the interaction between an agent and its environment. This concept fundamentally changes how we think about artificial intelligence.",
+            "date": "2025-01-02T00:00:00.000Z",
+            "formattedDate": "January 2, 2025",
+            "tags": [
+              {
+                "label": "embodied-intelligence",
+                "permalink": "/blog/tags/embodied-intelligence"
+              },
+              {
+                "label": "robotics",
+                "permalink": "/blog/tags/robotics"
+              },
+              {
+                "label": "ai",
+                "permalink": "/blog/tags/ai"
+              },
+              {
+                "label": "concepts",
+                "permalink": "/blog/tags/concepts"
+              }
+            ],
+            "readingTime": 1.94,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Physical AI Team",
+                "title": "Authors of the Physical AI & Humanoid Robotics Course",
+                "url": "https://github.com/physical-ai-team",
+                "image_url": "https://github.com/physical-ai-team.png",
+                "imageURL": "https://github.com/physical-ai-team.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "embodied-intelligence",
+              "title": "Understanding Embodied Intelligence in Physical AI",
+              "authors": [
+                {
+                  "name": "Physical AI Team",
+                  "title": "Authors of the Physical AI & Humanoid Robotics Course",
+                  "url": "https://github.com/physical-ai-team",
+                  "image_url": "https://github.com/physical-ai-team.png",
+                  "imageURL": "https://github.com/physical-ai-team.png"
+                }
+              ],
+              "tags": [
+                "embodied-intelligence",
+                "robotics",
+                "ai",
+                "concepts"
+              ]
+            },
+            "unlisted": false,
+            "prevItem": {
+              "title": "ROS 2 as the Robotic Nervous System",
+              "permalink": "/blog/ros2-nervous-system"
+            },
+            "nextItem": {
+              "title": "Welcome to Physical AI & Humanoid Robotics Blog",
+              "permalink": "/blog/welcome"
+            }
+          },
+          "content": "One of the core concepts underlying Physical AI is *embodied intelligence* - the idea that true intelligence emerges from the interaction between an agent and its environment. This concept fundamentally changes how we think about artificial intelligence.\n\n## What is Embodied Intelligence?\n\nTraditional AI approaches often treat intelligence as a computational process divorced from physical reality. Algorithms process inputs and generate outputs without necessarily considering the physical consequences of those outputs in the real world.\n\nEmbodied intelligence, however, recognizes that intelligence is deeply connected to physical embodiment and environmental interaction. Just as human intelligence evolved in response to the need to navigate and manipulate the physical world, embodied AI systems gain intelligence through their interaction with their environment.\n\n## Key Principles of Embodied Intelligence\n\n### Physical Grounding\nThe system's understanding is grounded in physical experiences rather than abstract symbols. For example, a robot's concept of \"heavy object\" comes from actually lifting objects of different weights, not from symbolic representations.\n\n### Sensorimotor Contingencies\nIntelligent behavior emerges from the interplay between sensory inputs and motor outputs. The robot learns about the world by actively manipulating it and observing the results.\n\n### Environmental Affordances\nThe environment itself becomes part of the cognitive system. Rather than storing all information internally, the robot uses environmental cues and properties to guide its behavior.\n\n## Applications in Physical AI\n\nIn our robotics curriculum, students learn to design systems that embody these principles:\n\n- **Perception Systems**: Understanding what is sensed in the context of how the robot moves through the world\n- **Action Systems**: Planning actions that take sensorimotor contingencies into account\n- **Learning Systems**: Acquiring intelligence through physical interaction and exploration\n- **Adaptive Systems**: Continuously adjusting behavior based on environmental feedback\n\n## Practical Implementation\n\nIn practical terms, embodied intelligence means designing robots that:\n\n1. Learn from physical interaction with their environment\n2. Use environmental feedback to refine their understanding\n3. Adapt their behavior based on real-world consequences\n4. Develop skills through experience rather than explicit programming\n\nThis approach leads to more robust and adaptable robotic systems that can function effectively in the complex, dynamic environments of the real world.\n\n## Looking Ahead\n\nFuture blog posts will explore specific implementations of embodied intelligence in humanoid robotics, including how we teach these concepts in our 13-week curriculum and showcase student projects that exemplify these principles in action."
+        },
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/packages/create-docusaurus/templates/shared/blog/2025-01-01-welcome.md",
+            "source": "@site/blog/2025-01-01-welcome.md",
+            "title": "Welcome to Physical AI & Humanoid Robotics Blog",
+            "description": "Welcome to our blog dedicated to exploring the fascinating intersection of artificial intelligence and physical robotics. Here, we'll dive deep into the concepts of embodied intelligence and discuss how AI systems can operate effectively in the physical world.",
+            "date": "2025-01-01T00:00:00.000Z",
+            "formattedDate": "January 1, 2025",
+            "tags": [
+              {
+                "label": "welcome",
+                "permalink": "/blog/tags/welcome"
+              },
+              {
+                "label": "robotics",
+                "permalink": "/blog/tags/robotics"
+              },
+              {
+                "label": "ai",
+                "permalink": "/blog/tags/ai"
+              },
+              {
+                "label": "physical-ai",
+                "permalink": "/blog/tags/physical-ai"
+              }
+            ],
+            "readingTime": 1.23,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Physical AI Team",
+                "title": "Authors of the Physical AI & Humanoid Robotics Course",
+                "url": "https://github.com/physical-ai-team",
+                "image_url": "https://github.com/physical-ai-team.png",
+                "imageURL": "https://github.com/physical-ai-team.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome to Physical AI & Humanoid Robotics Blog",
+              "authors": [
+                {
+                  "name": "Physical AI Team",
+                  "title": "Authors of the Physical AI & Humanoid Robotics Course",
+                  "url": "https://github.com/physical-ai-team",
+                  "image_url": "https://github.com/physical-ai-team.png",
+                  "imageURL": "https://github.com/physical-ai-team.png"
+                }
+              ],
+              "tags": [
+                "welcome",
+                "robotics",
+                "ai",
+                "physical-ai"
+              ]
+            },
+            "unlisted": false,
+            "prevItem": {
+              "title": "Understanding Embodied Intelligence in Physical AI",
+              "permalink": "/blog/embodied-intelligence"
+            }
+          },
+          "content": "Welcome to our blog dedicated to exploring the fascinating intersection of artificial intelligence and physical robotics. Here, we'll dive deep into the concepts of embodied intelligence and discuss how AI systems can operate effectively in the physical world.\n\n## What is Physical AI?\n\nPhysical AI represents a paradigm shift from traditional digital AI toward embodied intelligence. Rather than treating AI as purely software-based systems, Physical AI emphasizes the importance of physical interaction with the environment as a fundamental aspect of intelligence.\n\nIn this blog series, we'll explore:\n\n- How robots can learn through physical interaction\n- The challenges of bridging digital AI with real-world robotics\n- Practical implementations of AI in robotic systems\n- Case studies of successful Physical AI implementations\n- The latest research and developments in humanoid robotics\n\n## Our Journey Through Physical AI\n\nThis blog accompanies our comprehensive curriculum on \"Physical AI & Humanoid Robotics,\" where we'll cover:\n\n- **ROS 2 Fundamentals** - Building the nervous system of robotics applications\n- **Simulation Environments** - Using Gazebo and Unity for safe testing and development\n- **NVIDIA Isaac Platform** - Leveraging advanced tools for perception and navigation\n- **Vision-Language-Action Systems** - Enabling robots to understand natural commands\n- **Humanoid Control** - Techniques for locomotion, manipulation, and balance\n\nThrough these articles, we hope to share insights, discoveries, and practical tips for researchers, developers, and enthusiasts working in this exciting field.\n\nStay tuned for our upcoming posts where we'll dive into specific technical implementations and case studies!"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "ros2-nervous-system",
+            "embodied-intelligence",
+            "welcome"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 3,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/ros-2": {
+          "label": "ros2",
+          "items": [
+            "ros2-nervous-system"
+          ],
+          "permalink": "/blog/tags/ros-2",
+          "pages": [
+            {
+              "items": [
+                "ros2-nervous-system"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/ros-2",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/robotics": {
+          "label": "robotics",
+          "items": [
+            "ros2-nervous-system",
+            "embodied-intelligence",
+            "welcome"
+          ],
+          "permalink": "/blog/tags/robotics",
+          "pages": [
+            {
+              "items": [
+                "ros2-nervous-system",
+                "embodied-intelligence",
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/robotics",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 3,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/architecture": {
+          "label": "architecture",
+          "items": [
+            "ros2-nervous-system"
+          ],
+          "permalink": "/blog/tags/architecture",
+          "pages": [
+            {
+              "items": [
+                "ros2-nervous-system"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/architecture",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/communication": {
+          "label": "communication",
+          "items": [
+            "ros2-nervous-system"
+          ],
+          "permalink": "/blog/tags/communication",
+          "pages": [
+            {
+              "items": [
+                "ros2-nervous-system"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/communication",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/embodied-intelligence": {
+          "label": "embodied-intelligence",
+          "items": [
+            "embodied-intelligence"
+          ],
+          "permalink": "/blog/tags/embodied-intelligence",
+          "pages": [
+            {
+              "items": [
+                "embodied-intelligence"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/embodied-intelligence",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/ai": {
+          "label": "ai",
+          "items": [
+            "embodied-intelligence",
+            "welcome"
+          ],
+          "permalink": "/blog/tags/ai",
+          "pages": [
+            {
+              "items": [
+                "embodied-intelligence",
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/ai",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/concepts": {
+          "label": "concepts",
+          "items": [
+            "embodied-intelligence"
+          ],
+          "permalink": "/blog/tags/concepts",
+          "pages": [
+            {
+              "items": [
+                "embodied-intelligence"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/concepts",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/welcome": {
+          "label": "welcome",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/welcome",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/welcome",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/physical-ai": {
+          "label": "physical-ai",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/physical-ai",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/physical-ai",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/customDocLayout",
+        "source": "@site/src/pages/customDocLayout.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.tsx"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "tailwind-plugin": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

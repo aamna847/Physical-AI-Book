@@ -1,0 +1,541 @@
+{
+  "/__docusaurus/debug-f7a": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-d-3-c60"
+    }
+  },
+  "/__docusaurus/debug/config-dc0": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-d-3-c60"
+    }
+  },
+  "/__docusaurus/debug/content-834": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-d-3-c60"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-ff9": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-d-3-c60"
+    }
+  },
+  "/__docusaurus/debug/metadata-7b3": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-d-3-c60"
+    }
+  },
+  "/__docusaurus/debug/registry-0d6": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-d-3-c60"
+    }
+  },
+  "/__docusaurus/debug/routes-589": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-d-3-c60"
+    }
+  },
+  "/blog-222": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blogb-73-ed1"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-392-040"
+      },
+      {
+        "content": "content---blog-7-b-8-fd9"
+      },
+      {
+        "content": "content---blog-019-67b"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/archive-9d9": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blogb-73-ed1"
+    },
+    "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/blog/embodied-intelligence-068": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blogb-73-ed1"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-embodied-intelligence-463-efd"
+  },
+  "/blog/ros2-nervous-system-a66": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blogb-73-ed1"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-ros-2-nervous-system-5-e-8-dee"
+  },
+  "/blog/tags-20c": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blogb-73-ed1"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/ai-3fc": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogb-73-ed1"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-7-b-8-fd9"
+      },
+      {
+        "content": "content---blog-019-67b"
+      }
+    ],
+    "tag": "tag---blog-tags-aif-32-543",
+    "listMetadata": "listMetadata---blog-tags-aiab-4-9b4"
+  },
+  "/blog/tags/architecture-b20": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogb-73-ed1"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-392-040"
+      }
+    ],
+    "tag": "tag---blog-tags-architecturec-80-7ae",
+    "listMetadata": "listMetadata---blog-tags-architecturec-23-d91"
+  },
+  "/blog/tags/communication-125": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogb-73-ed1"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-392-040"
+      }
+    ],
+    "tag": "tag---blog-tags-communicationcd-3-c90",
+    "listMetadata": "listMetadata---blog-tags-communicatione-82-196"
+  },
+  "/blog/tags/concepts-d28": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogb-73-ed1"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-7-b-8-fd9"
+      }
+    ],
+    "tag": "tag---blog-tags-conceptsec-5-20f",
+    "listMetadata": "listMetadata---blog-tags-conceptsbd-7-a96"
+  },
+  "/blog/tags/embodied-intelligence-1e0": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogb-73-ed1"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-7-b-8-fd9"
+      }
+    ],
+    "tag": "tag---blog-tags-embodied-intelligence-2-b-3-a22",
+    "listMetadata": "listMetadata---blog-tags-embodied-intelligence-981-419"
+  },
+  "/blog/tags/physical-ai-a9c": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogb-73-ed1"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-019-67b"
+      }
+    ],
+    "tag": "tag---blog-tags-physical-aie-8-a-0f4",
+    "listMetadata": "listMetadata---blog-tags-physical-aif-3-f-51e"
+  },
+  "/blog/tags/robotics-7e7": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogb-73-ed1"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-392-040"
+      },
+      {
+        "content": "content---blog-7-b-8-fd9"
+      },
+      {
+        "content": "content---blog-019-67b"
+      }
+    ],
+    "tag": "tag---blog-tags-robotics-38-e-641",
+    "listMetadata": "listMetadata---blog-tags-robotics-4-f-7-f56"
+  },
+  "/blog/tags/ros-2-fcb": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogb-73-ed1"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-392-040"
+      }
+    ],
+    "tag": "tag---blog-tags-ros-26-e-3-486",
+    "listMetadata": "listMetadata---blog-tags-ros-27-db-ec2"
+  },
+  "/blog/tags/welcome-538": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogb-73-ed1"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-019-67b"
+      }
+    ],
+    "tag": "tag---blog-tags-welcomef-6-b-36d",
+    "listMetadata": "listMetadata---blog-tags-welcomea-24-f1d"
+  },
+  "/blog/welcome-e12": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blogb-73-ed1"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcome-3-f-1-b5f"
+  },
+  "/customDocLayout-1da": {
+    "__comp": "__comp---site-src-pages-custom-doc-layout-js-5-b-8-e42",
+    "__context": {
+      "plugin": "plugin---custom-doc-layoutb-39-81e"
+    },
+    "config": "config---custom-doc-layout-5-e-9-4b9"
+  },
+  "/docs-460": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsc-04-fa3"
+    }
+  },
+  "/docs-eac": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
+  },
+  "/docs/tags-0cc": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "tags": "tags---docs-tags-559-5e5"
+  },
+  "/docs/tags/3-d-ef8": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-3-d-8-f-0-67b"
+  },
+  "/docs/tags/actuation-791": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-actuationdf-5-56e"
+  },
+  "/docs/tags/ai-91c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-aie-7-e-1ea"
+  },
+  "/docs/tags/architecture-44b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-architecturef-68-1fa"
+  },
+  "/docs/tags/bipedal-c80": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-bipedal-838-64f"
+  },
+  "/docs/tags/cameras-30b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-cameras-949-cf3"
+  },
+  "/docs/tags/computer-vision-8c2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-computer-visionad-2-8b2"
+  },
+  "/docs/tags/configuration-8a4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-configurationce-3-a0a"
+  },
+  "/docs/tags/control-a89": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-controla-77-c82"
+  },
+  "/docs/tags/conversational-762": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-conversationaldf-7-f1f"
+  },
+  "/docs/tags/deployment-a1e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-deployment-01-c-35f"
+  },
+  "/docs/tags/embodied-intelligence-992": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-embodied-intelligencecc-7-5ce"
+  },
+  "/docs/tags/gazebo-3ce": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-gazeboc-92-bdc"
+  },
+  "/docs/tags/hardware-303": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-hardware-569-c09"
+  },
+  "/docs/tags/humanoid-1cd": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-humanoid-462-f33"
+  },
+  "/docs/tags/imus-4e5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-imus-550-c98"
+  },
+  "/docs/tags/integration-b38": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-integration-0-b-7-1d2"
+  },
+  "/docs/tags/isaac-ceb": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-isaacceb-e3c"
+  },
+  "/docs/tags/kinematics-0c1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-kinematics-083-8f7"
+  },
+  "/docs/tags/launch-d58": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-launch-9-f-8-380"
+  },
+  "/docs/tags/lidar-d18": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-lidar-915-1aa"
+  },
+  "/docs/tags/locomotion-8d7": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-locomotione-4-b-739"
+  },
+  "/docs/tags/machine-learning-83a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-machine-learningc-24-de8"
+  },
+  "/docs/tags/nav-2-8fd": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-nav-25-cd-1d9"
+  },
+  "/docs/tags/navigation-e27": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-navigation-262-fac"
+  },
+  "/docs/tags/nlp-e53": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-nlp-148-ba0"
+  },
+  "/docs/tags/nodes-ea0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-nodes-936-54b"
+  },
+  "/docs/tags/nvidia-a17": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-nvidia-93-d-002"
+  },
+  "/docs/tags/parameters-c7d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-parametersc-16-dba"
+  },
+  "/docs/tags/perception-d2e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-perceptioncf-5-fa4"
+  },
+  "/docs/tags/physical-ai-b9e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-physical-ai-7-e-7-d17"
+  },
+  "/docs/tags/physics-394": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-physics-5-f-1-bff"
+  },
+  "/docs/tags/platforms-cc7": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-platforms-734-865"
+  },
+  "/docs/tags/reinforcement-learning-b9e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-reinforcement-learningfb-6-314"
+  },
+  "/docs/tags/requirements-f6f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-requirements-64-d-373"
+  },
+  "/docs/tags/rl-a60": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-rld-1-f-83f"
+  },
+  "/docs/tags/robotics-574": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-roboticsec-2-2a7"
+  },
+  "/docs/tags/robots-096": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-robots-674-5a8"
+  },
+  "/docs/tags/ros-2-51a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-ros-2675-1d5"
+  },
+  "/docs/tags/sdf-bed": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-sdf-3-f-6-bda"
+  },
+  "/docs/tags/sensors-46d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-sensorsa-4-e-9c0"
+  },
+  "/docs/tags/services-2d2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-servicesfcc-6ac"
+  },
+  "/docs/tags/simulation-db8": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-simulationcd-0-30d"
+  },
+  "/docs/tags/slam-dba": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-slam-6-fc-384"
+  },
+  "/docs/tags/topics-5c2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-topics-85-a-a70"
+  },
+  "/docs/tags/unity-6a5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-unitye-12-a16"
+  },
+  "/docs/tags/urdf-787": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-urdf-172-cdb"
+  },
+  "/docs/tags/vision-language-action-7dc": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-vision-language-action-33-a-798"
+  },
+  "/docs/tags/visual-slam-6a7": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-visual-slam-41-c-4b3"
+  },
+  "/docs/tags/vla-766": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-vlad-0-f-ddb"
+  },
+  "/docs/tags/walking-7c3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-walking-5-f-8-135"
+  },
+  "/docs-e7a": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/introduction-457": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introductiona-09-6b4"
+  },
+  "/docs/part-1-foundations/chapter-1-introduction-to-physical-ai-a82": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-part-1-foundations-chapter-1-introduction-to-physical-ai-90-a-af2"
+  },
+  "/docs/part-1-foundations/chapter-2-sensors-perception-048": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-part-1-foundations-chapter-2-sensors-perceptionaaa-1eb"
+  },
+  "/docs/part-2-nervous-system/chapter-3-ros2-architecture-core-concepts-bf5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-part-2-nervous-system-chapter-3-ros-2-architecture-core-concepts-733-7a2"
+  },
+  "/docs/part-2-nervous-system/chapter-4-vision-language-action-systems-4d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-part-2-nervous-system-chapter-4-vision-language-action-systems-2-a-7-618"
+  },
+  "/docs/part-2-nervous-system/chapter-5-launch-systems-parameter-management-725": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-part-2-nervous-system-chapter-5-launch-systems-parameter-managementd-2-d-df4"
+  },
+  "/docs/part-2-nervous-system/chapter-6-simulation-gazebo-unity-integration-437": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-part-2-nervous-system-chapter-6-simulation-gazebo-unity-integrationc-85-5d5"
+  },
+  "/docs/part-2-nervous-system/chapter-7-nvidia-isaac-sim-sdk-023": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-part-2-nervous-system-chapter-7-nvidia-isaac-sim-sdk-5-f-1-669"
+  },
+  "/docs/part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf-0df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-part-3-digital-twin-chapter-6-simulation-gazebo-urdf-sdf-290-5f6"
+  },
+  "/docs/part-3-digital-twin/chapter-7-physics-simulation-unity-integration-514": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-part-3-digital-twin-chapter-7-physics-simulation-unity-integrationc-47-c2d"
+  },
+  "/docs/part-4-ai-brain/chapter-10-reinforcement-learning-control-d71": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-part-4-ai-brain-chapter-10-reinforcement-learning-control-0-a-5-1a2"
+  },
+  "/docs/part-4-ai-brain/chapter-6-nvidia-isaac-sim-sdk-f5d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-part-4-ai-brain-chapter-6-nvidia-isaac-sim-sdk-39-d-928"
+  },
+  "/docs/part-4-ai-brain/chapter-9-visual-slam-navigation-b51": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-part-4-ai-brain-chapter-9-visual-slam-navigation-865-131"
+  },
+  "/docs/part-5-advanced-humanoids/chapter-11-humanoid-kinematics-locomotion-78d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-part-5-advanced-humanoids-chapter-11-humanoid-kinematics-locomotionecf-b5c"
+  },
+  "/docs/part-5-advanced-humanoids/chapter-12-vla-conversational-robotics-776": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-part-5-advanced-humanoids-chapter-12-vla-conversational-robotics-10-c-3fc"
+  },
+  "/docs/part-5-advanced-humanoids/hardware-requirements-robot-platforms-d3b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-part-5-advanced-humanoids-hardware-requirements-robot-platforms-2-cd-104"
+  },
+  "/docs/search-functionality-6d6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-search-functionalitybb-3-67b"
+  },
+  "/-a07": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---custom-doc-layoutb-39-81e"
+    },
+    "config": "config---custom-doc-layout-5-e-9-4b9"
+  }
+}

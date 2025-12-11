@@ -1,0 +1,56 @@
+{
+  "id": "part-2-nervous-system/chapter-5-launch-systems-parameter-management",
+  "title": "Chapter 5 - Launch Systems & Parameter Management",
+  "description": "Managing complex ROS 2 deployments using launch files and parameter management",
+  "source": "@site/docs/part-2-nervous-system/chapter-5-launch-systems-parameter-management.md",
+  "sourceDirName": "part-2-nervous-system",
+  "slug": "/part-2-nervous-system/chapter-5-launch-systems-parameter-management",
+  "permalink": "/docs/part-2-nervous-system/chapter-5-launch-systems-parameter-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-2-nervous-system/chapter-5-launch-systems-parameter-management.md",
+  "tags": [
+    {
+      "label": "ros2",
+      "permalink": "/docs/tags/ros-2"
+    },
+    {
+      "label": "launch",
+      "permalink": "/docs/tags/launch"
+    },
+    {
+      "label": "parameters",
+      "permalink": "/docs/tags/parameters"
+    },
+    {
+      "label": "configuration",
+      "permalink": "/docs/tags/configuration"
+    },
+    {
+      "label": "deployment",
+      "permalink": "/docs/tags/deployment"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "chapter-5-launch-systems-parameter-management",
+    "title": "Chapter 5 - Launch Systems & Parameter Management",
+    "description": "Managing complex ROS 2 deployments using launch files and parameter management",
+    "tags": [
+      "ros2",
+      "launch",
+      "parameters",
+      "configuration",
+      "deployment"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4 - Vision-Language-Action Systems",
+    "permalink": "/docs/part-2-nervous-system/chapter-4-vision-language-action-systems"
+  },
+  "next": {
+    "title": "Chapter 6 - Simulation with Gazebo (URDF/SDF)",
+    "permalink": "/docs/part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf"
+  }
+}

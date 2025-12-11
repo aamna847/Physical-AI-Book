@@ -1,0 +1,57 @@
+{
+  "id": "part-5-advanced-humanoids/chapter-13-hardware-requirements-robot-platforms",
+  "title": "Chapter 13 - Hardware Requirements & Robot Platforms",
+  "description": "Overview of hardware requirements and robot platform recommendations for Physical AI & Humanoid Robotics",
+  "source": "@site/docs/part-5-advanced-humanoids/chapter-13-hardware-requirements-robot-platforms.md",
+  "sourceDirName": "part-5-advanced-humanoids",
+  "slug": "/part-5-advanced-humanoids/hardware-requirements-robot-platforms",
+  "permalink": "/docs/part-5-advanced-humanoids/hardware-requirements-robot-platforms",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-5-advanced-humanoids/chapter-13-hardware-requirements-robot-platforms.md",
+  "tags": [
+    {
+      "label": "hardware",
+      "permalink": "/docs/tags/hardware"
+    },
+    {
+      "label": "requirements",
+      "permalink": "/docs/tags/requirements"
+    },
+    {
+      "label": "robots",
+      "permalink": "/docs/tags/robots"
+    },
+    {
+      "label": "platforms",
+      "permalink": "/docs/tags/platforms"
+    },
+    {
+      "label": "ai",
+      "permalink": "/docs/tags/ai"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "hardware-requirements-robot-platforms",
+    "title": "Chapter 13 - Hardware Requirements & Robot Platforms",
+    "description": "Overview of hardware requirements and robot platform recommendations for Physical AI & Humanoid Robotics",
+    "tags": [
+      "hardware",
+      "requirements",
+      "robots",
+      "platforms",
+      "ai",
+      "robotics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 12 - VLA (Vision-Language-Action) & Conversational Robotics",
+    "permalink": "/docs/part-5-advanced-humanoids/chapter-12-vla-conversational-robotics"
+  }
+}

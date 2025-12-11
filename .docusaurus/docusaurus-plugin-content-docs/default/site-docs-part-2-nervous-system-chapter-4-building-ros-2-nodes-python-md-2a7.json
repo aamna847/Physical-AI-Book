@@ -1,0 +1,61 @@
+{
+  "id": "part-2-nervous-system/chapter-4-building-ros2-nodes-python",
+  "title": "Chapter 4 - Vision-Language-Action Systems",
+  "description": "Implementation of Vision-Language-Action systems for conversational robotics",
+  "source": "@site/docs/part-2-nervous-system/chapter-4-building-ros2-nodes-python.md",
+  "sourceDirName": "part-2-nervous-system",
+  "slug": "/part-2-nervous-system/chapter-4-vision-language-action-systems",
+  "permalink": "/docs/part-2-nervous-system/chapter-4-vision-language-action-systems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-2-nervous-system/chapter-4-building-ros2-nodes-python.md",
+  "tags": [
+    {
+      "label": "vision-language-action",
+      "permalink": "/docs/tags/vision-language-action"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "label": "ai",
+      "permalink": "/docs/tags/ai"
+    },
+    {
+      "label": "nlp",
+      "permalink": "/docs/tags/nlp"
+    },
+    {
+      "label": "computer-vision",
+      "permalink": "/docs/tags/computer-vision"
+    },
+    {
+      "label": "actuation",
+      "permalink": "/docs/tags/actuation"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "chapter-4-vision-language-action-systems",
+    "title": "Chapter 4 - Vision-Language-Action Systems",
+    "description": "Implementation of Vision-Language-Action systems for conversational robotics",
+    "tags": [
+      "vision-language-action",
+      "robotics",
+      "ai",
+      "nlp",
+      "computer-vision",
+      "actuation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3 - ROS 2 Architecture & Core Concepts",
+    "permalink": "/docs/part-2-nervous-system/chapter-3-ros2-architecture-core-concepts"
+  },
+  "next": {
+    "title": "Chapter 5 - Launch Systems & Parameter Management",
+    "permalink": "/docs/part-2-nervous-system/chapter-5-launch-systems-parameter-management"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "search-functionality",
+  "title": "ℹ️ Search Functionality Documentation ℹ️",
+  "description": "📊 Overview 📊",
+  "source": "@site/docs/search-functionality.md",
+  "sourceDirName": ".",
+  "slug": "/search-functionality",
+  "permalink": "/docs/search-functionality",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/search-functionality.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

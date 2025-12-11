@@ -1,0 +1,51 @@
+{
+  "id": "part-1-foundations/chapter-1-introduction-to-physical-ai",
+  "title": "Chapter 1 - Introduction to Physical AI & Embodied Intelligence",
+  "description": "Introduction to Physical AI and embodied intelligence concepts",
+  "source": "@site/docs/part-1-foundations/chapter-1-introduction-to-physical-ai.md",
+  "sourceDirName": "part-1-foundations",
+  "slug": "/part-1-foundations/chapter-1-introduction-to-physical-ai",
+  "permalink": "/docs/part-1-foundations/chapter-1-introduction-to-physical-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-1-foundations/chapter-1-introduction-to-physical-ai.md",
+  "tags": [
+    {
+      "label": "physical-ai",
+      "permalink": "/docs/tags/physical-ai"
+    },
+    {
+      "label": "embodied-intelligence",
+      "permalink": "/docs/tags/embodied-intelligence"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "label": "ai",
+      "permalink": "/docs/tags/ai"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "chapter-1-introduction-to-physical-ai",
+    "title": "Chapter 1 - Introduction to Physical AI & Embodied Intelligence",
+    "description": "Introduction to Physical AI and embodied intelligence concepts",
+    "tags": [
+      "physical-ai",
+      "embodied-intelligence",
+      "robotics",
+      "ai"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🤖 🤖 Curriculum Module: Physical AI & Humanoid Robotics 🧠 🤖",
+    "permalink": "/docs/introduction"
+  },
+  "next": {
+    "title": "Chapter 2 - Sensors & Perception (LiDAR, Cameras, IMUs)",
+    "permalink": "/docs/part-1-foundations/chapter-2-sensors-perception"
+  }
+}

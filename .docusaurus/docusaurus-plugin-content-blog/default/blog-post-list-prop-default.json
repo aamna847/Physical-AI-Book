@@ -1,0 +1,20 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "ROS 2 as the Robotic Nervous System",
+      "permalink": "/blog/ros2-nervous-system",
+      "unlisted": false
+    },
+    {
+      "title": "Understanding Embodied Intelligence in Physical AI",
+      "permalink": "/blog/embodied-intelligence",
+      "unlisted": false
+    },
+    {
+      "title": "Welcome to Physical AI & Humanoid Robotics Blog",
+      "permalink": "/blog/welcome",
+      "unlisted": false
+    }
+  ]
+}

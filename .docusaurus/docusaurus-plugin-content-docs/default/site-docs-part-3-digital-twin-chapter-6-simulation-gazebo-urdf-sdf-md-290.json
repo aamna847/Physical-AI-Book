@@ -1,0 +1,66 @@
+{
+  "id": "part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf",
+  "title": "Chapter 6 - Simulation with Gazebo (URDF/SDF)",
+  "description": "Comprehensive guide to simulation with Gazebo using URDF and SDF for robotics",
+  "source": "@site/docs/part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf.md",
+  "sourceDirName": "part-3-digital-twin",
+  "slug": "/part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf",
+  "permalink": "/docs/part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf.md",
+  "tags": [
+    {
+      "label": "simulation",
+      "permalink": "/docs/tags/simulation"
+    },
+    {
+      "label": "gazebo",
+      "permalink": "/docs/tags/gazebo"
+    },
+    {
+      "label": "urdf",
+      "permalink": "/docs/tags/urdf"
+    },
+    {
+      "label": "sdf",
+      "permalink": "/docs/tags/sdf"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "label": "physics",
+      "permalink": "/docs/tags/physics"
+    },
+    {
+      "label": "3d",
+      "permalink": "/docs/tags/3-d"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "chapter-6-simulation-gazebo-urdf-sdf",
+    "title": "Chapter 6 - Simulation with Gazebo (URDF/SDF)",
+    "description": "Comprehensive guide to simulation with Gazebo using URDF and SDF for robotics",
+    "tags": [
+      "simulation",
+      "gazebo",
+      "urdf",
+      "sdf",
+      "robotics",
+      "physics",
+      "3d"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5 - Launch Systems & Parameter Management",
+    "permalink": "/docs/part-2-nervous-system/chapter-5-launch-systems-parameter-management"
+  },
+  "next": {
+    "title": "Chapter 7 - Physics Simulation & Unity Integration",
+    "permalink": "/docs/part-3-digital-twin/chapter-7-physics-simulation-unity-integration"
+  }
+}

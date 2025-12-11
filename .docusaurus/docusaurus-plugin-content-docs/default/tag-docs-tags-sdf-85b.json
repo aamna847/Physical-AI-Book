@@ -1,0 +1,15 @@
+{
+  "label": "sdf",
+  "permalink": "/docs/tags/sdf",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf",
+      "title": "Chapter 6 - Simulation with Gazebo (URDF/SDF)",
+      "description": "Comprehensive guide to simulation with Gazebo using URDF and SDF for robotics",
+      "permalink": "/docs/part-3-digital-twin/chapter-6-simulation-gazebo-urdf-sdf"
+    }
+  ],
+  "unlisted": false
+}

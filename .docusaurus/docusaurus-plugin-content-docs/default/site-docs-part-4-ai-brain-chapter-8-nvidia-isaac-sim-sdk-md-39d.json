@@ -1,0 +1,61 @@
+{
+  "id": "part-4-ai-brain/chapter-8-nvidia-isaac-sim-sdk",
+  "title": "Chapter 6 - NVIDIA Isaac Sim & SDK",
+  "description": "Comprehensive guide to NVIDIA Isaac Sim and SDK for robotics and AI",
+  "source": "@site/docs/part-4-ai-brain/chapter-8-nvidia-isaac-sim-sdk.md",
+  "sourceDirName": "part-4-ai-brain",
+  "slug": "/part-4-ai-brain/chapter-6-nvidia-isaac-sim-sdk",
+  "permalink": "/docs/part-4-ai-brain/chapter-6-nvidia-isaac-sim-sdk",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/humanoid-robotics/physical-ai-book/edit/main/docs/part-4-ai-brain/chapter-8-nvidia-isaac-sim-sdk.md",
+  "tags": [
+    {
+      "label": "nvidia",
+      "permalink": "/docs/tags/nvidia"
+    },
+    {
+      "label": "isaac",
+      "permalink": "/docs/tags/isaac"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "label": "ai",
+      "permalink": "/docs/tags/ai"
+    },
+    {
+      "label": "simulation",
+      "permalink": "/docs/tags/simulation"
+    },
+    {
+      "label": "perception",
+      "permalink": "/docs/tags/perception"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "chapter-6-nvidia-isaac-sim-sdk",
+    "title": "Chapter 6 - NVIDIA Isaac Sim & SDK",
+    "description": "Comprehensive guide to NVIDIA Isaac Sim and SDK for robotics and AI",
+    "tags": [
+      "nvidia",
+      "isaac",
+      "robotics",
+      "ai",
+      "simulation",
+      "perception"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 7 - Physics Simulation & Unity Integration",
+    "permalink": "/docs/part-3-digital-twin/chapter-7-physics-simulation-unity-integration"
+  },
+  "next": {
+    "title": "Chapter 9 - Visual SLAM & Navigation (Nav2)",
+    "permalink": "/docs/part-4-ai-brain/chapter-9-visual-slam-navigation"
+  }
+}
