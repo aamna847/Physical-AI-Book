@@ -132,6 +132,14 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+  // Add custom scripts for additional functionality
+  scripts: [
+    {
+      src: "https://polyfill.io/v3/polyfill.min.js?features=es6",
+      async: true,
+    },
+  ],
 };
 
 export default config;
